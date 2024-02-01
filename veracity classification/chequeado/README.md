@@ -22,7 +22,7 @@ En esta carpeta se procesaran manualmente las noticias recopiladas de Chequeado,
  - Entrada: Verdadero | Es falso que el ministro dijo: "Hay que robarle a la gente"
  - Salida: Falso | El ministro dijo: "Hay que robarle a la gente"
 
-### Tranformación de Noticias Falsas con Texto Verdaderos mal clasificadas
+### Tranformación de Noticias Falsas con Texto Verdaderos
 
  - Entrada: Falso | Durante el 2021 la Argentina fue el pais que mas exporto a China, a diferencia de lo que dijo el candidato en el debate
  - Salida: Verdadero | Durante el 2021 la Argentina fue el pais que mas exporto a China
@@ -49,7 +49,7 @@ Si bien realice un dropduplicates() en el procesamiento aparecen muchas noticias
  - Entrada: Falso | No, los barbijos no causan hiploxia
  - Entrada: Falso | Es mentira que los barbijos causan hiploxia
 
-### Agregado de Noticias Verdaderas sobre temas con gran cantidad de Noticias Falsas para una mejor comprensión del Modelo. 
+### Agregado de Noticias Verdaderas para una mejor comprensión del Modelo. 
 Dado que la gran mayoria de noticias suelen ser falsas, cada tanto esta bueno agregar noticias verdaderas para que el modelo entienda mejor el concepto. Por ejemplo existen gran variedad de noticias falsas sobre el COVID y las vacunas, por lo que es desable agregar informacion verdadera sobre estos temas.
 
  - Salida: Verdadero | El covid es una enfermedad originada en China, sus sintomas son la tos y la fiebre.
