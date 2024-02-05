@@ -1,6 +1,4 @@
 clasificacion,texto
-Verdadero,Son falsos estos resultados de boca de urna adjudicados a 3 consultoras
-Falso,"Circulan en redes sociales resultados presidenciales y de la Provincia de Buenos Aires adjudicados a las consultoras de opinión pública Management and Fit, Inteligencia Analítica Consultores Asociados S.A y Ricardo Rouvier & Asociados."
 Verdadero,No se divulgaron resultados oficiales previos al cierre de mesas en el balotaje
 Falso,"Se difundieron en redes sociales supuestos primeros “resultados oficiales” del voto de argentinos en el exterior. La lista enumeraba a los candidatos más votados entre Sergio Massa, de Unión por la Patria, y Javier Mileil, de La Libertad Avanza, en países como Nueva Zelanda, Australia y Malasia. "
 Verdadero,"En el balotaje 2023, las boletas con el número de lista arrancado se consideran válidas"
@@ -8,9 +6,9 @@ Falso,"En el balotaje 2023, las boletas con el número de lista arrancado se con
 Falso,"Miles de usuarios denuncian que, durante la jornada electoral del balotaje, hay boletas de La Libertad Avanza en el cuarto oscuro a las que se les arrancó el número de lista, y advierten que son inválidas."
 Verdadero,"Miles de usuarios denuncian que, durante la jornada electoral del balotaje, hay boletas de La Libertad Avanza en el cuarto oscuro a las que se les arrancó el número de lista, y advierten que son inválidas. Pero esto es falso. Aunque tenga esta rotura, una boleta es válida siempre que esté visible el nombre del partido y la categoría de candidatos a elegir, confirmó a Reverso la Cámara Nacional Electoral."
 Falso,Sergio Massa pronunció la frase “voy a poder con los narcos porque los conozco” en el último debate según Infobae
-Falso,"Decenas de miles de usuarios comparten una placa de Infobae con una presunta frase del candidato presidencial de Unión por la Patria, diciendo que va “a poder con los narcos” porque los conoce. Pero es falsa. Según las publicaciones virales, el funcionario habría hecho esos comentarios durante el último debate presidencial, el 12 de noviembre."
-Verdadero,Este mural de Lionel Messi no lleva escrito “Aguante Massa”; la foto fue alterada
-Falso,"A pocos días del balotaje, miles de usuarios de redes sociales comparten la foto de un mural de Lionel Messi al que se le agregó la frase “Aguante Massa, forros”, en alusión al candidato presidencial de Unión por la Patria. "
+Falso,"Decenas de miles de usuarios comparten una placa de Infobae con una frase del candidato presidencial de Unión por la Patria, diciendo que va “a poder con los narcos” porque los conoce. Pero es falsa. Según las publicaciones virales, el funcionario habría hecho esos comentarios durante el último debate presidencial, el 12 de noviembre."
+Falso,Mural de Lionel Messi lleva escrito “Aguante Massa”
+Falso,Aparece Mural de Lionel Messi en Rosario con la frase “Aguante Massa, forros”, en alusión al candidato presidencial de Unión por la Patria. "
 Verdadero,"Durante las elecciones es usual que se viralice desinformación electoral. La desinformación en Tik Tok se caracteriza por contar con videos compilados con diversos fragmentos y hechos aislados sin contexto. En X, los comentarios de usuarios con X Premium  obtienen una optimización que los posiciona más arriba y en Spotify circulan podcasts que reproducen el contenido falso de redes sociales. "
 Falso,"Javier Milei, en el debate por el balotaje 2023: “En la lucha contra el narcotráfico no hay (en Rosario) un solo policía preso”"
 Verdadero,"De acuerdo con los datos de la Procuraduría de Narcocriminalidad, al menos 3 policías fueron condenados con pena de prisión en el marco de causas por narcotráfico en el Departamento de Rosario en 2021."
@@ -21,9 +19,8 @@ Verdadero,"Javier Milei, en el debate por el balotaje 2023: “Solamente el 3,5%
 Verdadero,"En 2021, se denunciaron un total de 1,7 millones de hechos presuntamente delictivos en la Argentina, a la vez que se registraron un total de 50 mil sentencias penales condenatorias, según datos oficiales. Esto da como resultado un 2,9% de delitos con condena, cifra similar a la expresada por Milei."
 Falso,AySA le pagó a Pablo Echarri $ 15 millones publico LN+
 Verdadero,Es falso que AySA le pagó a Pablo Echarri $ 15 millones y la supuesta noticia no fue publicada por LN+
-Verdadero,"Tanto la supuesta noticia como la factura son falsas. Echarri aseguró que es responsable inscripto y no monotributista, como se lee en el documento que figura en la imagen. Además, el límite de facturación de la máxima categoría de monotributo es inferior al consignado en la desinformación."
 Verdadero,"Circula una foto del candidato presidencial de La Libertad Avanza consumiendo lo que parece un medicamento, y en redes se señala que el hecho ocurrió antes del tercer debate presidencial. Sin embargo, ciertos elementos de la imagen dan cuenta de que no fue tomada en ese contexto."
-Verdadero,"En 2011 se registró el punto más alto de PBI per cápita en la Argentina, bajo la metodología de la Paridad de Poder Adquisitivo. Desde entonces, este indicador registró una caída de entre un 9% y un 10%, una reducción significativa, aunque menor a la señalada por el candidato presidencial de La Libertad Avanza."
+Verdadero,"En 2011 se registró el punto más alto de PBI per cápita en la Argentina, bajo la metodología de la Paridad de Poder Adquisitivo. Desde entonces, este indicador registró una caída de entre un 9% y un 10%, una reducción significativa."
 Falso,"Javier Milei, en el debate por el balotaje 2023: “Cuando uno mira el producto per cápita argentino, está 15% por debajo (de 2011)”"
 Verdadero,"Sergio Massa, en el debate por el balotaje 2023: “La vuelta de las AFJP (la) ha planteado (Milei) en su propuesta a la justicia electoral”"
 Verdadero,"En la plataforma electoral de La Libertad Avanza aparece la vuelta de “un sistema de capitalización privado” para las jubilaciones. Es decir, el sistema que funcionó en la Argentina entre 1993 y 2008, con las AFJP."
