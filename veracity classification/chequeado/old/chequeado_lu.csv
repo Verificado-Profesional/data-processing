@@ -1,680 +1,181 @@
 clasificacion,texto
 Falso,"Los montos reales de inversión durante la gestión PRO son los más altos desde 2003. Sin embargo, la participación de ese ítem como porcentaje del presupuesto total se redujo a diferencia de otras partidas con montos similares, como Publicidad."
-Falso,Frigerio: “Vetamos muchas menos leyes que el Gobierno nacional”
-Falso,"El jefe de Gobierno porteño actual vetó más leyes que el Poder Ejecutivo Nacional. Esto se debe, en parte, a que el PRO no contó con mayoría propia en la Legislatura. El sistema porteño no permite la promulgación parcial de leyes."
+Verdadero,El jefe de Gobierno porteño en 2015 vetó más leyes que el Poder Ejecutivo Nacional.
 Falso,CFK: “Cuando Néstor [Kirchner] llegó al Gobierno (…) los jubilados representaban el 66%”
-Falso,La cantidad de personas en edad de jubilarse aumentó desde ese piso hasta llegar a una cobertura mayor al 90% en la actualidad.
 Verdadero,"Massa: “De cada $100 que los misioneros pagan de impuestos, $76 se los lleva Cristina”"
 Verdadero,"El precandidato a presidente del Frente Renovador lo puso como ejemplo de la centralización de los recursos. Si bien el gobierno nacional se queda con la mayor parte, una porción importante se destina a la ANSES, que cubre jubilaciones en todo el territorio."
-Verdadero,Micheli: “Cada vez hay más trabajadores en negro en nuestro país”
 Verdadero,"El empleo no registrado aumentó entre 2013 y 2014; pero la tendencia muestra que la proporción de trabajadores en esta situación no crece, como dijo el secretario general de la CTA opositora, sino que está estancada desde 2010."
 Falso,Clarín: “Aprenden menos los alumnos del Norte del país”
-Falso,"Esa región posee, efectivamente, bajos resultados en los exámenes de calidad educativa y sus provincias se ubican lejos del promedio nacional."
-Verdadero,"Recalde: “La empresa tiene todos sus balances presentados, auditados y aprobados por la AGN”"
-Verdadero,"El presidente de Aerolíneas dijo que la información es pública y pasó por el control de la Auditoría General de la Nación. Esto es cierto en el caso del último informe, pero en los anteriores hubo deficiencias."
-Verdadero,La Nación: “La Argentina tiene hoy la mayor presión tributaria de su historia”
-Verdadero,"La carga impositiva en nuestro país aumentó considerablemente en la última década y es la más alta desde 1970. La Argentina se ubica segunda en la región y por debajo de los porcentajes de los países de la OCDE, pero sin niveles de prestación de servicios equiparables."
-Verdadero,De Narváez: “Tenemos más de 100 mil maestros que no trabajan”
-Verdadero,"No hay información oficial que sostenga estos dichos. El estudio que el precandidato a gobernador por el Frente Renovador usó como fuente es sobre cuatro municipios y no es extrapolable al total provincial, según los expertos. Aún así, faltan datos para dimensionar el ausentismo docente."
-Falso,Berni: “En la Argentina no se producen drogas”
-Falso,"Es cierto que la materia prima de la cocaína no se elabora localmente, pero partes del proceso sí se realizan hoy en el país."
-Falso,Príncipe: “El 20% de los productores hace el 80% de los granos”
-Falso,"Los últimos datos disponibles son inferiores y datan de 2002, por lo que no es posible saber cuál es la situación actual de la producción agrícola."
+Falso,"El norte argentino posee, efectivamente, bajos resultados en los exámenes de calidad educativa y sus provincias se ubican lejos del promedio nacional."
+Verdadero,"El norte argentino o NEA incluye a las provincias de Corrientes, Chaco, Formosa y Misiones "
+Verdadero,"Recalde: “La empresa Aerolíneas Argentinas tiene todos sus balances presentados, auditados y aprobados por la AGN”"
+Verdadero,El presidente de Aerolíneas dijo que la información es pública y pasó por el control de la Auditoría General de la Nación. 
+Verdadero,"La carga impositiva en nuestro país aumentó considerablemente en la última década (2005-2015) y es la más alta desde 1970. La Argentina se ubica segunda en la región y por debajo de los porcentajes de los países de la OCDE, pero sin niveles de prestación de servicios equiparables."
+Falso,Berni: “En 2015 en la Argentina no se producen drogas”
+Verdadero,Partes del proceso de fabricación de drogra se realiza en Argentina
 Falso,Donda: “[Naciones Unidas] ha recomendado a los Estados miembros que consideren abandonar el uso de armas eléctricas Taser”
-Falso,El organismo internacional manifestó varias veces en casos de otros países la reticencia frente a este tipo de armas.
+Falso,El organismo internacional manifestó varias veces en casos de otros países la reticencia de lar armas eléctricas Taser.
 Verdadero,CFK: “[Invertimos] más de US$1.200 millones en trenes para pasajeros en todo el AMBA”
-Verdadero,"El Gobierno nacional adquirió 974 coches 0km para los trenes metropolitanos urbanos por un total de más de US$ 1.100 millones, algo que no ocurría desde 1985. Si se suman otras compras dentro de esa región pero de media distancia, se llega al número citado por la Presidenta."
-Verdadero,Sanz: “Nueve de cada diez votaciones en el Parlamento las hemos hecho con el PRO”
-Verdadero,"Ambas fuerzas votaron igual en la mayoría de las votaciones desde 2014. Sin embargo, estas coincidencias se dieron también con otros bloques de la oposición en el Congreso, como el Frente Renovador de Sergio Massa."
-Verdadero,#ChequeadoMacri: “Son 250 mil chicos de los primarios porteños que han recibido su netbook”
-Verdadero,"El Gobierno de la Ciudad de Buenos Aires entregó esa cantidad de computadoras a través del Plan Sarmiento. Las netbooks mejoran el acceso a la tecnología y el desarrollo de nuevas capacidades, aunque no se logran sólo con la entrega."
-Verdadero,Lousteau: “El número de casos de mortalidad infantil en la Ciudad aumentó”
-Verdadero,"Si se mira la evolución en el tiempo, que los especialistas aconsejan tomar, las muertes infantiles aumentaron en el promedio de los últimos tres años con respecto a los dos trienios anteriores."
-Verdadero,Pagni: “Casación estableció que cualquier delito ligado a la investigación del atentado contra la AMIA es crimen de lesa humanidad”
-Verdadero,"El máximo tribunal en materia penal del país no estableció esto, sino que dijo, en el caso “Galeano”, que deberá determinarse en el juicio oral si el encubrimiento del antentado a la AMIA es una grave violación a los derechos humanos, una categoría diferente y con diverso alcance que la de crimen de lesa humanidad."
+Verdadero,"El Gobierno nacional adquirió, entre 2008 y 2014, 974 coches 0km para los trenes metropolitanos urbanos por un total de más de US$ 1.100 millones, algo que no ocurría desde 1985. Si se suman otras compras dentro de esa región pero de media distancia, se llega al número citado por la Presidenta."
+Verdadero,Sanz: “Nueve de cada diez votaciones en 2015 en el Parlamento las hemos hecho con el PRO”
+Verdadero,Ambas fuerzas votaron igual en la mayoría de las votaciones desde 2014. 
+Verdadero,Macri: “Son 250 mil chicos de los primarios porteños que han recibido su netbook”
+Verdadero,El Gobierno de la Ciudad de Buenos Aires entregó esa cantidad de computadoras a través del Plan Sarmiento. Las netbooks mejoran el acceso a la tecnología y el desarrollo de nuevas capacidades.
+Verdadero,"durante el período 2011-2013, la tasa de mortalidad infantil en la Ciudad fue mayor a la de los trienios 2005-2007 y 2008-2010."
+Falso,Pagni: “Casación estableció que cualquier delito ligado a la investigación del atentado contra la AMIA es crimen de lesa humanidad”
 Falso,Rodríguez Saá: “San Luis no tiene ninguna villa”
-Falso,"En la provincia puntana no existen asentamientos precarios. Se trata de una de las jurisdicciones que mayores fondos automáticos para vivienda recibe por habitante, pero de las que menos obtiene de los programas discrecionales de Nación."
-Verdadero,"Según Recalde, el aumento de la tarifa del subte dejó al 20% de los pasajeros afuera"
-Verdadero,"Durante el primer año de aumento hubo una baja importante, pero luego tuvo otras variaciones. También impactó la suba de los pasajes de colectivos dispuesta por el Gobierno nacional."
-Falso,"Lorenzetti: “[El Poder Judicial] nunca va a ser popular, porque sería un error que los jueces busquen la popularidad”"
-Falso,"Según los especialistas, la Justicia es un poder contramayoritario. La Constitución argentina propone al Poder Judicial como el garante de los derechos de las minorías frente a los otros poderes del Estado, que representan a las mayorías."
+Verdadero,"Según los especialistas, la Justicia es un poder contramayoritario. La Constitución argentina propone al Poder Judicial como el garante de los derechos de las minorías frente a los otros poderes del Estado, que representan a las mayorías."
 Verdadero,Randazzo: “Los únicos coches 0km que tiene el Gobierno de la Ciudad son los adquiridos por Nación para la Línea A”
-Verdadero,"Los coches nuevos que hoy circulan en el subte son sólo los 45 que compró el Gobierno nacional, pero la gestión de Mauricio Macri adquirió más de 200 para ésta y la Línea H que también son 0km."
+Verdadero,La gestión de Mauricio Macri adquirió más de 200 coches de subte.
 Falso,Gollán: “[El aborto] es una causa de muerte materna”
-Falso,Se trata de la principal causa de mortalidad vinculada con el embarazo.
-Verdadero,#ChequeadoScioli: “Bajaron un 35% los homicidios en ocasión de robo”
-Verdadero,"El gobernador bonaerense habló de un descenso a raíz de las acciones ligadas con la emergencia de seguridad decretada en 2014, pero no hay datos públicos que permitan corroborar su afirmación."
+Falso,El aborto se trata de la principal causa de mortalidad vinculada con el embarazo.
 Falso,Lorenzetti: “La sentencia por la causa del atentado a la Embajada de Israel es cosa juzgada”
-Falso,"El fallo de 1999 que citó el presidente de la Corte no cerró el caso sino que ordenó continuar con algunas líneas de investigación. Además, una sentencia de 2006 sobre la prescriptibilidad del delito ratifica que la causa continúa abierta."
-Falso,#ChequeadoScioli: “Alcanzamos la tasa de mortalidad infantil más baja de la historia”
-Falso,"El gobernador bonaerense señaló un logro confirmado por los datos, que ubica a la Provincia en la misma tendencia que el resto del país."
-Verdadero,#ChequeadoMacri: “Estamos cada día más cerca de cumplir los objetivos de la Ley de Basura Cero”
-Verdadero,"Si bien se redujo la disposición de residuos, se hizo en menor medida que lo establecido en la Ley de Basura Cero y el compromiso que el Jefe de Gobierno porteño asumió en 2012."
-Falso,#ChequeadoMacri: “Logramos reducir en más de un 50% la disposición final de residuos”
-Falso,El porcentaje de basura enterrado que logró disminuir el Gobierno de la Ciudad es menor a lo declarado por el jefe de Gobierno en su último discurso de apertura de la Legislatura porteña.
+Verdadero,"El fallo de 1999 que citó el presidente de la Corte ordenó continuar con algunas líneas de investigación. Además, una sentencia de 2006 sobre la prescriptibilidad del delito ratifica que la causa continúa abierta."
+Verdadero,Scioli: “En 2015 Alcanzamos la tasa de mortalidad infantil más baja de la historia en Argentina”
 Falso,"Según Verbitsky, el presupuesto de inteligencia del Ejército creció por debajo del presupuesto del Ministerio de Defensa"
-Falso,"Desde que Milani fue designado al frente de Inteligencia del Ejército los montos crecieron por encima del Ministerio de Defensa, la Inteligencia de las Fuerzas Armadas y la ex SIDE. Desde 2012, en cambio, el incremento sí es menor a la variación en Defensa."
+Verdadero,"Desde que Milani fue designado al frente de Inteligencia del Ejército los montos crecieron por encima del Ministerio de Defensa, la Inteligencia de las Fuerzas Armadas y la ex SIDE"
 Falso,"Santilli: “El juego no lo maneja la Ciudad, nosotros no somos parte [del acuerdo firmado por Ibarra]”"
-Falso,"El senador por el PRO aseguró que el juego no es competencia del Gobierno porteño. Sin embargo, la Ciudad es parte del acuerdo firmado con el Gobierno nacional en 2003, que fue sucesivamente renovado por la actual gestión."
 Falso,"CFK: “Un hogar argentino consume cuatro veces más [energía que] Brasil, tres veces más que Chile y Uruguay”"
 Falso,"La demanda energética es mayor a la de los otros países de la región, pero las diferencias no son tan marcadas como señaló la Presidenta."
-Falso,"Malena Baro: “Scioli destinaba el 2,24% del presupuesto provincial a Vialidad, hoy descendió al 1,10%”"
-Falso,La proporción de dinero destinada al área cayó a la mitad durante la gestión del actual Gobernador bonaerense. Los montos efectivamente gastados son incluso menores a los aprobados.
-Verdadero,Macri: “Hemos comprado más de 300 coches nuevos”
-Verdadero,"El Gobierno porteño adquirió un total de 377 coches de subte. Aunque la mayoría son formaciones nuevas, no se trata en todos los casos de trenes 0 km."
-Falso,Clarín: “El desempleo en la Argentina está entre los más altos de la región”
-Falso,"VERDADEROEl país tiene un desempleo superior a la mayoría de los países de Sudamérica, e incluso es más alto que el promedio de América Latina."
-Verdadero,"Sapag: “Neuquén tenía el índice de mortalidad infantil más alto de la República, hoy es el más bajo”"
-Verdadero,"FALSOLa provincia sureña no es la que más redujo el indicador, y tampoco es la que tiene hoy los menores niveles."
-Falso,Massa: “Bajamos un 80% el delito automotor en Tigre”
-Falso,"EXAGERADOLos datos muestran que la baja fue entre 10 y 20 puntos menor a lo dicho por el precandidato presidencial del Frente Renovador. De todas maneras, Tigre fue el municipio de zona norte con la mayor reducción de estos robos."
-Falso,"Cerruti: “Buenos Aires paga $280 mil por cuadra en recolección de residuos, el doble que la mayoría de las ciudades argentinas”"
-Falso,"EXAGERADOLa legisladora incluyó en la cuenta el gasto en obras y un adelanto que el Gobierno le hizo a estas compañías. De todas maneras, el costo es alto comparado con otras ciudades."
-Falso,CFK: “Los rendimientos de los plazos fijos y el Merval se ubicaron muy por encima del de la compra de dólares (inclusive el ilegal)”
-Falso,"ENGAÑOSOLos datos de la Presidenta no toman en cuenta la devaluación de enero de 2014. Aunque la Bolsa sí creció por encima del precio de la divisa estadounidense, no es el caso de los plazos fijos."
 Falso,Majdalani (PRO): “En la Secretaría de Inteligencia no todos los fondos son reservados”
-Falso,"FALSOLos gastos de la SI son secretos en la práctica, porque no hay control externo y la Ley de Inteligencia sólo exige un acta de su titular justificando las erogaciones ante la Contaduría General. La información existente no presenta ningún detalle."
-Falso,Marcelo Fuentes: “Las funciones de la Comisión están claras y su trabajo también”
-Falso,"FALSOLa Ley de Inteligencia Nacional que creó la Bicameral no se cumple y existe un decreto que limita su control. Además, es muy poco lo que se sabe sobre su funcionamiento, aún sobre cuestiones no secretas."
-Falso,Highton de Nolasco: “Hay más muertes por accidentes de tránsito que por otro tipo de inseguridad delictiva”
-Falso,"VERDADEROEfectivamente, las víctimas fatales por hechos de tránsito superan a los homicidios producidos con intención. La situación no es exclusiva de la Argentina, sino que sucede en la mayoría de los países."
-Verdadero,Tiempo Argentino: “Un informe privado refleja una baja del 90% en cortes de luz”
-Verdadero,"ENGAÑOSOLos datos corresponden a una fuente oficial, a pesar de lo que indica el título, y son en comparación con el peor año en términos de consumo y cortes energéticos.ADEMÁS...> ¿Qué obras se hicieron desde el verano anterior?"
+Falso,"Los gastos de la SI (Secretaría de inteligencia) son secretos en la práctica, porque no hay control externo y la Ley de Inteligencia sólo exige un acta de su titular justificando las erogaciones ante la Contaduría General. "
 Falso,Aníbal Fernández: “Los datos personales se pueden hacer conocer (…) cuando medien razones fundadas de preocupación pública”
-Falso,"FALSOLa ley 25.326 sólo permite que se den a conocer datos con orden judicial cuando haya cuestiones de seguridad pública, defensa nacional o salud pública, no de preocupación, como afirmó el Secretario general de la Presidencia."
-Falso,Massa: “A un productor le sale más caro el flete de Salta a Rosario que de Rosario a Rotterdam”
-Falso,"ENGAÑOSOLos costos que señaló el diputado nacional son correctos, aunque sucede porque el transporte marítimo es más barato que el terrestre en todo el mundo."
-Falso,Scioli: “A partir de los 12.200 policías que están en la Costa los índices de inseguridad bajaron más del 80%”
-Falso,INSOSTENIBLENo hay información oficial disponible que permita conocer si los delitos bajaron o no tras el inicio del Operativo Sol.
-Falso,Urribarri: “Entre Ríos es la provincia que más creció en estos años”
-Falso,"DISCUTIBLELa frase del Gobernador es verdadera sólo si se toman las provincias con datos comparables. Otros cálculos, en base al PBI 2004, muestran que Entre Ríos se ubica en el puesto número 11 entre las que más crecieron.ADEMÁS...>Poco acceso a los datos de PBG por provincia"
-Falso,"Lombardi: “En la Argentina, 33% de la población se toma vacaciones, menos que en Uruguay, Francia o EE.UU.”"
-Falso,Binner: “No podemos aceptar la pobreza (…) que acompaña al 40% de nuestros niños”
-Falso,"DISCUTIBLELos datos utilizados por el precandidato presidencial socialista coinciden con algunos cálculos, pero por la falta de datos oficiales hay discrepancia sobre la cantidad de chicos en esa situación."
-Falso,Capitanich: “Washington D.C. tiene más tasa de mortalidad infantil que la Argentina”
-Falso,FALSOEl jefe de Gabinete y ex gobernador chaqueño lo dijo luego de la muerte de un niño qom por desnutrición en Chaco. Los datos oficiales de ambos gobiernos desmienten su afirmación.
-Falso,"Clarín: “En Provincia, se perdieron 271.000 empleos en un año”"
-Falso,"VERDADERO, PERO…Los datos muestran que hay menos ocupados que un año atrás, aunque la cifra es menor por un cambio de metodología que el INDEC no detalló."
-Verdadero,"Abal Medina, sobre Menem: “Votó el 90% de las veces en contra nuestra y el 10% a favor”"
-Verdadero,"DISCUTIBLELa presencia del ex Presidente en la última sesión del año fue vista como un “voto clave” para el kirchnerismo, pero el desempeño de Menem respecto del oficialismo depende de la interpretación del quórum y de las ausencias."
-Falso,El FALSO de la gente
-Falso,Cuál fue el favorito de los lectores.
-Falso,CFK: “No hay ningún alumno ni docente que no cuente con una computadora de ‘Conectar Igualdad’”
-Falso,VERDADERO Por primera vez desde que se lanzó el programa se completó la entrega de las netbooks a todo el universo contemplado. Hay controversia sobre el uso que se les da en las aulas.
+Verd4,"La ley 25.326 sólo permite que se den a conocer datos con orden judicial cuando haya cuestiones de seguridad pública, defensa nacional o salud pública, no de preocupación."
+Verdadero,El transporte marítimo es más barato que el terrestre en todo el mundo.
+Verdadero,CFK: “Todos los alumnos y docentes tienen una computadora de ‘Conectar Igualdad’”
+Verdadero, Por primera vez desde que se lanzó el programa se completó la entrega de las netbooks a todo el universo contemplado. Hay controversia sobre el uso que se les da en las aulas.
 Verdadero,Javkin: “La infraestructura de control [en los puertos de Rosario] es absolutamente deficiente”
-Verdadero,VERDADEROLos informes de la Auditoría General de la Nación y de la Jefatura de Gabinete dan cuenta de lo que afirma el diputado nacional: los controles del Gobierno nacional en las terminales portuarias de la zona son defectuosos.
-Verdadero,Partido Socialista: “[Las campañas fueron] iniciadas fuera del tiempo legal”
-Verdadero,VERDADEROLos carteles con llamados explícitos al voto en las elecciones del próximo año están fuera de los plazos.
-Verdadero,La meta del fifty-fifty: según Scioli ya se alcanzó
-Verdadero,"FALSOLa participación laboral en el PBI depende de qué fuente se utilice, pero en todos los casos el porcentaje se encuentra lejos del 50 por ciento. Sólo el INDEC llega a esa conclusión pero sus datos no son confiables."
-Falso,"Infobae: “Pese a su credo estatista, el kirchnerismo invirtió la mitad que en los 90 en infraestructura”"
-Falso,"FALSOLa inversión en infraestructura del sector público hoy es casi el triple que la que realizó el menemismo. El total de la inversión en el sector, en cambio, fue mayor durante los 90s, impulsada sobre todo por el sector privado."
-Falso,Enrique Peña Nieto: “Impulsamos una política de seguridad que permitió reducir los homicidios dolosos”
-Falso,"Las cifras muestran una disminución de las muertes cometidas con intención, pero México se ubica entre los países con más asesinatos del mundo. No hay consenso sobre las causas de la caída."
-Verdadero,Nelson Castro: “Hoy hay cinco millones de personas con planes”
-Verdadero,"Si bien no hay una definición precisa, el número es correcto e incluso puede ser mayor. Pese a esto, los especialistas destacan que los montos son bajos y que el Estado también hace transferencias a los sectores de altos ingresos."
-Verdadero,"Zaffaroni: “Entre 2002 y 2012, entre homicidios, tránsito y suicidios, Brasil perdió más de dos millones de habitantes”"
-Verdadero,"FALSOSi bien Brasil presenta cifras de muertes violentas superiores a la mayoría de los países de la región, el número es la mitad de lo mencionado por Zaffaroni."
-Falso,Macri: “Con $2.000 millones urbanizás todas las villas de la Ciudad de Buenos Aires”
-Falso,DISCUTIBLEEl costo de regularizar los asentamientos informales de la Ciudad varía mucho según diferentes cálculos y lo que se incluya dentro del concepto de urbanización; el dato de Macri coincide con uno del BID de 2012.
-Falso,Felipe Rodríguez Laguens: “El 90% de los siniestros se producen por error humano”
-Falso,VERDADEROEl dato citado por el director de la Agencia Nacional de Seguridad Vial es correcto según los datos disponibles.
-Verdadero,Página 12: “La publicidad en la Ciudad aumenta siempre por encima del incremento general de los gastos”
-Verdadero,"VERDADERO, PERO...El gasto en publicidad de la Ciudad Autónoma de Buenos Aires creció todos los años desde 2007, con la excepción de 2012, y aumentó su participación en el total del presupuesto."
+Verdadero,Los informes de la Auditoría General de la Nación y de la Jefatura de Gabinete dan cuenta que os controles del Gobierno nacional en las terminales portuarias de la zona son defectuosos.
+Falso,"Zaffaroni: “Entre 2002 y 2012, entre homicidios, tránsito y suicidios, Brasil perdió más de dos millones de habitantes”"
+Falso, Brasil presenta cifras de muertes violentas de 500000 habitantes
+Verdadero,Felipe Rodríguez Laguens: “El 90% de los siniestros se producen por error humano”
 Verdadero,Galuccio: “En dos años hemos fabricado el yacimiento que produce más petróleo no convencional en el mundo fuera de EEUU”
-Verdadero,"VERDADERO, PERO...La Argentina es el segundo país con más pozos de este tipo de explotación petrolera, aunque muy pocos países explotan el shale oil, ya que todavía pueden extraer petróleo convencional, que requiere menos tecnología y es, por lo general, más barato."
+Verdadero,"La Argentina es el segundo país con más pozos de explotación petrolera, aunque muy pocos países explotan el shale oil, ya que todavía pueden extraer petróleo convencional, que requiere menos tecnología y es, por lo general, más barato."
 Verdadero,"Lozano: “La Argentina registra, desde junio de 2013, 485.000 empleos menos”"
-Verdadero,"VERDADEROLa evolución del mercado de trabajo muestra una baja en los niveles de empleo desde mediados de 2013, que implicó la destrucción de puestos de trabajo."
-Verdadero,"Clarín: “Argentina, entre los países con más deserción en la secundaria”"
-Verdadero,"VERDADERO, PERO...El país tiene una baja tasa de graduación secundaria en relación a las personas en edad de recibirse. Si bien se vincula con la deserción, son indicadores diferentes y hay quienes pueden recibirse con sobreedad."
-Verdadero,Capitanich: “Hoy el Poder Judicial tiene el mayor presupuesto desde el 10 de diciembre de 1983 a la fecha”
-Verdadero,"El presupuesto del área en relación al Producto está en el punto más alto de la serie, pero porque todo el gasto del Estado creció en relación al PBI. La proporción que destina el Ejecutivo al Poder Judicial de la Nación, en cambio, fue superada en 14 de los últimos 21 años."
-Falso,CFK: “Por primera vez en la historia del G-20 la cuestión de la reestructuración de deudas soberanas fue planteada en el comunicado final”
-Falso,"VERDADEROEl tema fue incluido en el documento, algo que para los especialistas es una muestra de consenso sobre la preocupación por el asunto."
-Verdadero,Julián Domínguez: “La Argentina va reduciendo progresivamente la importación de energía”
-Verdadero,"ENGAÑOSOLos datos muestran una caída en la demanda de combustibles, pero los especialistas destacan que es por la recesión y por un descenso en los precios internacionales."
-Falso,José Mujica: “Uruguay es el país más seguro de América Latina”
-Falso,"EXAGERADOSi bien su país se encuentra entre los más seguros de la región, hay otras naciones que muestran mejores indicadores."
-Falso,Massa: “Copiaron la ley de telecomunicaciones venezolana para influir sobre los contenidos”
-Falso,"FALSOEl líder del Frente Renovador afirmó que el proyecto del oficialismo prevé esa posibilidad. Sin embargo, a diferencia de la ley de ese país, el texto dice lo contrario y los especialistas coincidieron en que sólo regula la infraestructura."
-Falso,Clarín: “En el último año se fueron de las escuelas públicas casi 50 mil alumnos”
-Falso,"VERDADERO, PERO…El diario señaló correctamente la baja del sector estatal de educación, una tendencia que viene desde hace varios años, aunque no toda la baja se explica por un paso al sector privado."
-Verdadero,"Arslanián: “Yo reduje un 50% los homicidios dolosos y un 30%, el robo automotor”"
-Verdadero,"VERDADERO, PERO...Hubo un gran descenso de estos indicadores durante su gestión, superior a la baja que también se dio en el país. Para los expertos influyeron las mejoras socioeconómicas y medidas articuladas entre distintas áreas de gobierno."
-Verdadero,Giustiniani: “Tenemos las tarifas más caras del mundo”
-Verdadero,VERDADEROLa Argentina está entre los cinco países donde el costo promedio del minuto de comunicación celular es más caro. Qué dice al respecto el nuevo proyecto de telecomunicaciones que impulsa el Gobierno.
-Verdadero,"Lanata: “En Perú, en Bolivia y en Paraguay están mejor [que en la Argentina]”"
-Verdadero,"Si bien en los últimos años la evolución de varios indicadores económicos fue superior en estos países, la Argentina posee una mejor situación socioeconómica general."
-Falso,CFK: “El Código se aplica a partir de su sanción y de su implementación para los casos futuros”
-Falso,"VERDADERO, PERO...La mandataria contestó así las críticas acerca de que la propuesta de Código Procesal Penal de la Nación podría modificar la situación de funcionarios públicos hoy investigados. En principio sería así, aunque hay algunos puntos en discusión."
-Verdadero,Solanas: “El kirchnerismo no fue capaz de derogar ninguna ley del menemismo”
-Verdadero,FALSOExisten varias leyes sancionadas durante el menemismo que el Poder Legislativo Nacional derogó parcial o totalmente durante el período 2003-2014.
-Falso,Echegaray: “El uso de facturas apócrifas o facturas falsas nace del sector privado y termina en el sector privado”
-Falso,FALSOExisten varias casos emblemáticos de corrupción en los que funcionarios públicos estuvieron involucrados en la producción o uso de falsos comprobantes.
-Falso,Binner: “El 80% de los crímenes en la ciudad de Rosario no tiene que ver con el narcotráfico”
-Falso,VERDADEROEl diputado nacional y precandidato a Presidente de UNEN aclaró que el problema de violencia en su provincia es más amplio que los crímenes relacionados con el negocio de las drogas. Los datos lo sostienen.
-Verdadero,Fortuna: “Un egresado de una universidad pública cuesta más que en la privada más cara”
-Verdadero,ENGAÑOSO El presupuesto por graduado de las universidades públicas es mayor al costo en las universidades privadas. Pero el cálculo no tiene en cuenta aspectos como los distintos tipos de carreras y gastos no relacionados con la formación de graduados. Algunos especialistas consideran que no es válido.
-Falso,Augusto Costa: “No hubo una pérdida de salario real”
-Falso,"ENGAÑOSOLos datos oficiales coinciden con su frase, aunque son cuestionados por la falta de información sobre su metodología y el peso de Precios Cuidados. Las consultoras privadas y los centros de estudios sindicales muestran un resultado opuesto."
-Falso,Paenza: “[Con el lanzamiento de ArSat 1] la Argentina va a formar parte de un grupo muy selecto”
-Falso,VERDADEROExisten muy pocos países que construyen satélites con el nivel de complejidad del que se lanzará hoy.
-Verdadero,"Sanz: “Con lo que este Gobierno gasta cada mes en propaganda, se podría pagar el sueldo de 50 mil trabajadores”"
-Verdadero,"VERDADERO, PERO...El gasto en publicidad oficial es alto, incluso mayor que algunos presupuestos ministeriales completos. Los especialistas señalan, en cambio, que no es una comparación indicada para dimensionar el gasto del Gobierno en el rubro."
-Verdadero,"CFK: “Con el sistema actual, los procesos duran un promedio no menor a los 4 años”"
-Verdadero,"INSOSTENIBLELos especialistas coinciden en que la duración de los juicios es excesiva aunque no hay datos oficiales ni privados publicados para verificar el tiempo exacto de las causas. El promedio, además, incluye tipos de procesos con plazos muy diferentes."
-Falso,"Télam: “Desde que asumió como diputado, Massa faltó al 60% de las sesiones”"
-Falso,"EXAGERADOEl líder del Frente Renovador asistió la mayoría de las veces al recinto, pero es cierto que en muchas ocasiones no estuvo presente en el momento de la votación."
-Falso,"CFK: “En la Argentina, el promedio de procesados es del 65% y solamente 35% de condenados”"
-Falso,"EXAGERADOLos presos sin sentencia firme son un porcentaje menor al que señaló la Presidenta, pero aún así superan el promedio mundial. El primer chequeo a su discurso sobre el futuro Código Procesal Penal de la Nación."
-Falso,"Jorge Macri: “La Ciudad, en seis años, ha logrado pasar del 50% de chicos en escuelas públicas al 60%”"
-Falso,"FALSOEl total de alumnos que concurren a la escuela estatal en la Capital no aumentó sino que disminuyó. Si se analiza por niveles, sólo crecieron los jardines, pero en un porcentaje alejado del mencionado por Macri."
-Falso,Binner: “El rol de las PyMEs en nuestro país es clave: aportan 40% del PBI”
-Falso,VERDADEROEl Censo Económico 2004-2005 del INDEC indica que el 44% del valor agregado que se produce en la Argentina proviene de pequeñas y medianas empresas. Se trata de un dato estructural de la economía nacional que se mantiene estable.
-Verdadero,"Lanata: “En la Argentina, cinco de cada diez chicos terminan la secundaria”"
-Verdadero,"VERDADEROEl periodista mencionó un dato que se corrobora con las últimas cifras disponibles. Al mismo tiempo, aumentó la sobreedad de los estudiantes que se encuentran en el sistema secundario."
-Verdadero,Stolbizer: “[El DNU de $ 160 mil millones] equivale a un tercio de todo el dinero que circula en nuestra economía”
-Verdadero,VERDADEROLa diputada del GEN criticó el texto del Proyecto de Ley de Presupuesto e hizo eje sobre las ampliaciones que hace el Poder Ejecutivo luego de la aprobación legislativa. Los datos disponibles respaldan su afirmación.
-Verdadero,CFK: “El crecimiento realizado por la Argentina entre 2004 y 2011 es el tercero a nivel global en calidad de crecimiento”
-Verdadero,"ENGAÑOSOEl país se ubica en esa posición, pero entre 93 naciones en vías de desarrollo y no a nivel mundial. Además, el estudio que sirve como fuente utiliza los datos de crecimiento del INDEC, que están cuestionados."
+Falso,Capitanich: “En el 2014 el Poder Judicial tiene el mayor presupuesto desde el 10 de diciembre de 1983 a la fecha”
+Verdadero,CFK: “El Código se aplica a partir de su sanción y de su implementación para los casos futuros”
+Verdadero,La mandataria contestó así las críticas acerca de que la propuesta de Código Procesal Penal de la Nación podría modificar la situación de funcionarios públicos hoy investigados.
+Verdadero,Paenza: “[Con el lanzamiento de ArSat 1] la Argentina va a formar parte de un grupo muy selecto”
+Verdadero,Existen muy pocos países que construyen satélites con el nivel de complejidad del que se lanzará hoy.
+Verdadero,El Censo Económico 2004-2005 del INDEC indica que el 44% del valor agregado que se produce en la Argentina proviene de pequeñas y medianas empresas. Se trata de un dato estructural de la economía nacional que se mantiene estable.
 Falso,"La Nación: “Sin título docente, podrán ser nombrados maestros en algunas escuelas”"
-Falso,"ENGAÑOSOLa ley aprobada en la Provincia habilita que haya docentes sin título al frente de alumnos de 4 y 5 años, pero sólo si estos se encuentran actualmente trabajando en jardines comunitarios, y por el tiempo que demoren en obtener un título correspondiente. Pero la norma sí exige la titulación docente a los nuevos maestros contratados."
-Falso,Caparrós: “Se producen alimentos para 12 mil millones de personas y somos 7 mil”
-Falso,VERDADEROLos datos utilizados por Caparrós son correctos. Desde Naciones Unidas alertan que se tira alrededor de un tercio de la comida que se produce en el mundo.
-Verdadero,Feletti: “La diferencia más grande entre un presupuesto presentado y la realidad se da justamente en 2014”
-Verdadero,"ENGAÑOSOEl valor del dólar ya alcanzó su máxima distancia desde 2005, pero las diferencias entre las proyecciones y lo ocurrido en la economía se dieron en casi todos los años del kirchnerismo. En inflación y crecimiento, incluso, la brecha de otros años fue mayor."
-Falso,"Giorgi: “Por sobre el pago de autopartes, las terminales tuvieron US$ 2.800 millones para pagar autos importados”"
-Falso,"INSOSTENIBLELa frase de la Ministra es imposible de chequear, porque surge de información del Banco Central no publicada ni disponible. Además, las terminales importaron autos por un valor mayor al que le autorizaron para comprar divisas."
-Falso,Macri: “La Ciudad genera casi el 25% de los recursos coparticipables y se lleva poco más del 1% de coparticipación”
-Falso,"VERDADERO, PERO…Los números son correctos, pero la Ciudad es la jurisdicción que más recibe en subsidios del Estado nacional por persona."
-Verdadero,Clarín: “En sólo tres meses se cerraron 311.000 ‘cuentas sueldo’”
-Verdadero,"Los informes del Banco Central muestran esa variación entre diciembre de 2013 y marzo de 2014. Sin embargo, en la comparación interanual las cuentas aumentaron y, además, los especialistas coinciden en que no es un indicador relevante sobre el mercado laboral."
-Falso,Clarín: “En las primarias de la Provincia no habrá más aplazos”
-Falso,"FALSOLa resolución de la Provincia de Buenos Aires cambia el sistema de calificaciones y saca las notas del 1 al 3, pero no elimina los aplazos."
-Falso,Aranguren: “La compañía que últimamente ha aumentado más los precios es YPF”
-Falso,"VERDADERO, PERO...La empresa con participación estatal tuvo un aumento mayor que Shell a partir de la llegada de Miguel Galuccio. Pero aun así sus precios son menores que los de la empresa extranjera en casi todos los combustibles."
-Verdadero,"“Hemos hecho cuatro mil kilómetros de ruta”, dijo Scioli"
-Verdadero,"FALSOA diferencia de lo dicho por el Gobernador, no se trata de obras finalizadas que extienden la red vial sino de señalizaciones, repavimentaciones y bacheos u obras en proceso."
+Verdadero,Macri: “La Ciudad genera casi el 25% de los recursos coparticipables y se lleva poco más del 1% de coparticipación”
 Falso,Tiempo Argentino: “[El salario mínimo] se incrementó un 2.389% desde junio de 2003”
-Falso,"ENGAÑOSOEl aumento al que se refirió el diario, que no considera a la inflación, es menor si se tiene en cuenta el poder de compra. Además, el salario real de los trabajadores en blanco cayó en el primer trimestre del año."
-Falso,Capitanich: “La Argentina prácticamente ha erradicado los niveles de indigencia”
-Falso,"FALSODatos alternativos a los del INDEC muestran que, aunque el indicador bajó durante el período kirchnerista, hay una proporción significativa de personas que no alcanzan a comprar los alimentos básicos."
-Falso,"Recalde: “[Aerolíneas] tiene todos los balances al día, están en la página web, auditados y completos”"
-Falso,"EXAGERADO El presidente de la compañía aérea de bandera aseguró que esa información está disponible. A diferencia de lo que había ocurrido hasta ahora, eso es efectivamente así, aunque las auditorías han marcado la imposibilidad de corroborarlos."
-Falso,"La Nación: “Entre 2001 y 2012, la Argentina fue el tercer proveedor mundial de cocaína”"
-Falso,"VERDADERO, PERO...Un informe de la ONU sobre drogas ubica a nuestro país en esa posición, aunque el propio reporte reconoce que la medición no tiene cobertura universal y hay que interpretarlo con cautela."
-Verdadero,Lorenzetti: “En la Justicia Federal las vacantes oscilan en el 30%”
-Verdadero,"El presidente de la Corte mencionó el dato -que se sustenta en la información disponible- como una de las razones de la lentitud de la Justicia. Pero, a diferencia de lo que destacó, este porcentaje aumentó en los últimos años."
-Verdadero,"Augusto Costa: “La posibilidad de intervenir en la fijación de precios, margen de utilidad, existe desde 1974, no es una novedad”"
-Verdadero,"ENGAÑOSOEl secretario de Comercio defendió así el proyecto para modificar la Ley de Abastecimiento. Aunque la legislación data de esa fecha, existe controversia sobre su vigencia desde hace 20 años."
-Falso,Ernesto Sanz: “El radicalismo está gobernando la mitad de las capitales de provincia”
-Falso,"EXAGERADOLa Unión Cívica Radical gobierna siete de las 23 capitales de las provincias, pero junto con el Frente para la Victoria son las fuerzas con mayor cantidad de intendentes."
-Falso,"CFK: “[La actividad inmobiliaria] ha repuntado, durante el mes de junio, en un casi 20 por ciento”"
-Falso,"ENGAÑOSOLa compra y venta de propiedades en la Ciudad Autónoma de Buenos Aires registró un aumento en la cantidad de transacciones, aunque no se ven cambios significativos en el mercado. En el resto del país la situación no es la misma."
-Falso,AFSCA: “100.000 nuevos puestos de trabajo en la industria audiovisual”
-Falso,FALSOLos números de creación de empleo están lejos de los publicados por la AFSCA.
-Falso,Tomada: “El mercado de trabajo se ha mantenido estable. No ha habido más despidos que en el 2012 y 2013”
-Falso,ENGAÑOSOEl Ministro de Trabajo sustentó su frase en los datos oficiales disponibles. Omitió el aumento de la tasa de suspensiones -en su mayor nivel desde 2009- y la baja en el nivel de nuevas incorporaciones.
-Falso,"Larreta: “Nosotros tenemos superávit hace muchos años, por eso invertimos lo que invertimos”"
-Falso,"FALSOEl Jefe de Gabinete porteño negó así que la administración PRO tuviera déficit fiscal. Sin embargo, la Ciudad gastó más que sus ingresos -a excepción de 2010- en todos los años de gobierno de Mauricio Macri."
-Falso,Bossio: “La AUH está en el nivel más alto en términos de poder adquisitivo”
-Falso,"VERDADEROLos datos confirman que, más allá de la inflación, la Asignación Universal por Hijo (AUH) está por encima de su valor de 2009, cuando se lanzó. Los especialistas coinciden en que es un programa más efectivo contra la indigencia que contra la pobreza."
-Verdadero,"Darín: “La Ley de Bosques no se está cumpliendo, sobre todo en Salta”"
-Verdadero,"VERDADEROVarios puntos de la norma, como el dinero que debe recibir el Fondo para la Conservación de Bosques o la prohibición de realizar desmontes en zonas protegidas, están siendo incumplidos."
-Verdadero,Sanz: “La nueva ley de diabetes le mejora la vida a más de tres millones de argentinos”
-Verdadero,"VERDADEROEl senador radical, impulsor de la norma, señaló el alcance que podría tener basado en datos correctos."
-Verdadero,CFK: “Desde que Kirchner asumió se ha aumentado un 2.054% el haber de los jubilados”
-Verdadero,"FALSOEl aumento nominal fue menor. Si se considera el efecto de la inflación en esos años, la diferencia es aún mayor."
-Falso,Etchevehere: “El 90% de los caminos sigue siendo de tierra y sin mantenimiento”
-Falso,"EXAGERADOLos caminos de tierra son menos que los mencionados, aunque los pertenecientes a las zonas rurales no suelen estar pavimentados. Si bien hubo inversión, los especialistas destacan que no siguió una planificación estratégica y se centró en las rutas nacionales."
-Falso,Massa: “Un productor de Salta paga más caro el flete de Salta a Rosario que de Rosario a Rotterdam”
-Falso,"ENGAÑOSOLos costos que señaló el diputado nacional son correctos, aunque sucede porque el transporte marítimo es más barato que el terrestre. Pese a esto, en el país existe una baja participación del ferrocarril en las cargas, que es más económico para grandes distancias."
-Falso,Andrés Rodríguez (UPCN): “El impuesto abarca a un millón de trabajadores en relación de dependencia”
-Falso,"VERDADERO, PERO...La cantidad de personas que pagan este tributo es similar, pero representan menos del 10% de los trabajadores y del 15% de los registrados. El problema son las escalas del tributo, que están desactualizadas y provocan distorsiones."
-Verdadero,"Feletti: “Un trabajador argentino trabaja mucho más que uno europeo [en cantidad de horas, y tiene menos feriados]”"
-Verdadero,"EXAGERADOLa cantidad de horas trabajadas por un empleado argentino son mayores a las de los países de Europa, aunque no en las proporciones mencionadas por el diputado; los feriados no son más allí que acá."
-Falso,Spot de Presidencia: “Desde 2008 el Estado nacional rescató 6.604 víctimas de trata”
-Falso,"VERDADEROEl número coincide con los datos oficiales. Los especialistas destacan el impacto de la sanción de la ley específica en 2008, y su modificación de 2012 como consecuencia del caso de “Marita” Verón."
-Verdadero,American Task Force: “La cifra de 15 mil millones [de deuda con los holdouts] no tiene sustento”
-Verdadero,"FALSOLos datos oficiales se aproximan a ese monto. Y las fuentes alternativas, como consultoras privadas no afines a la política económica del Gobierno nacional, coinciden con las estimaciones de este número."
-Falso,Macri: “[El programa ‘Terminá la Secundaria’] es para todo el país (…) es totalmente válido. (…) Está todo perfectamente establecido”
-Falso,FALSOEl plan lanzado por el Gobierno porteño no cuenta con las autorizaciones necesarias para dar títulos válidos fuera de la Ciudad.
-Falso,Scioli: “Hemos duplicado la cantidad de parques industriales”
-Falso,"VERDADEROLa frase del Gobernador de la Provincia de Buenos Aires coincide con los datos, y los especialistas consultados señalan aspectos positivos de esta medida."
+Verdadero,"El aumento del salario mínimo en junio de 2003 que no considera a la inflación, es menor si se tiene en cuenta el poder de compra. Además, el salario real de los trabajadores en blanco cayó en el primer trimestre del año."
+Verdadero,"La Nación: “Entre 2001 y 2012, la Argentina fue el tercer proveedor mundial de cocaína”"
+Verdadero,"Un informe de la ONU sobre drogas ubica Argentina tercero a nivel mundial como proveedor de cocaina entre 2001 y 20012, aunque el propio reporte reconoce que la medición no tiene cobertura universal y hay que interpretarlo con cautela."
+Falso,"Augusto Costa: “La posibilidad de intervenir en la fijación de precios, margen de utilidad, existe desde 1974, no es una novedad”"
+Verdadero,Sanz: “La nueva ley  23.753 de diabetes le mejora la vida a más de tres millones de argentinos”
+Verdadero,"El senador radical Sanz, impulsor de la norma, señaló el alcance que podría tener basado en datos correctos."
+Falso,"Feletti: “Un trabajador argentino trabaja mucho más que uno europeo [en cantidad de horas, y tiene menos feriados]”"
+Verdadero,"La cantidad de horas trabajadas por un empleado argentino son mayores a las de los países de Europa, aunque no en las proporciones mencionadas por el diputado; los feriados no son más allí que acá."
+Verdadero,Spot de Presidencia: “Desde 2008 al 2014 el Estado nacional rescató 6.604 víctimas de trata”
 Verdadero,Dilma: “[Entre 2010 y 2013] la cantidad invertida en Educación y Salud en Brasil fue de 212 veces más que la cantidad invertida en los estadios”
-Verdadero,"VERDADERO, PERO...El dinero destinado a ambas áreas es considerablemente mayor al que demandaron los estadios. Pero la realización del Mundial implica también otros costos, y existe un debate abierto sobre la pertinencia de que el Estado destine presupuesto a este tipo de eventos."
-Verdadero,¿El piloto fallecido en el accidente aéreo era un testigo del caso Ciccone?
-Verdadero,"FALSOLuego del accidente aéreo en el que murieron cinco personas sobre el Río de la Plata, se propagó el rumor de que el piloto era testigo de la llamada causa Ciccone que involucra al vicepresidente de la Nación, Amado Boudou. Según la información que recopiló Chequeado, esta versión es falsa.  "
-Falso,Sergio Massa: “En la Argentina hay más prófugos que presos”
-Falso,"ENGAÑOSOLos datos que existen coinciden con el cálculo que mencionó el líder del Frente Renovador. Sin embargo, no todos los pedidos de captura vigentes son de “prófugos”; además, los especialistas destacan que es lógico que haya más personas buscadas que presos."
-Falso,CFK sobre la mortalidad materna: “[Entre 2009 y 2013] la hemos reducido a la mitad”
-Falso,"ENGAÑOSOHubo un descenso del indicador en los últimos años, pero la comparación de la Presidenta es con el punto más alto de los últimos 20 años."
-Falso,"Di Zeo: “Las autoridades que tienen que velar por las garantías constitucionales de los argentinos, mandan a Brasil listados de gente (…) te están prejuzgando”"
-Falso,FALSOEl intercambio de información está amparado en un acuerdo firmado por el Mercosur en 2012. Otro país puede rechazar el ingreso basado en esta información.
-Falso,"Kicillof: “Esta deuda con el sector privado en dólares está alrededor del 8%, es de las más bajas de la serie histórica”"
-Falso,"El porcentaje de la deuda con los privados en moneda extranjera, la más compleja de pagar, se ubica en torno al 9 por ciento del PBI. Los canjes de deuda y el pago con reservas explican una parte de la reducción, aunque también se da porque creció el endeudamiento con el sector público, como la ANSES y el Banco Central."
-Verdadero,Domínguez: “El problema del acceso a la vivienda está directamente relacionado con la falta de un reordenamiento poblacional. El 33% de la población se concentra en el 1% del territorio”
-Verdadero,"ENGAÑOSOLa concentración de la población es aún más importante que la señalada por el diputado oficialista. Pero aunque la migración hacia grandes áreas urbanas puede aumentar el valor del suelo, ese no es el factor clave del déficit habitacional, según los especialistas."
-Falso,CFK: “La proporción de la publicidad del Estado frente a la publicidad privada es ínfima”
-Falso,"Pinedo: “No hubo ninguna sesión ordinaria, y tuvimos tres sesiones especiales para tratar lo que querían los kirchneristas”"
-Falso,"VERDADEROEn lo que va del año no hubo ninguna sesión ordinaria en Diputados. Las tres sesiones especiales que se convocaron fueron impulsadas por el oficialismo, que no dio quórum cuando los partidos de la oposición pidieron tratar algún tema en particular."
-Verdadero,"Carrió: “[Se robó] diez mil millones de euros, sólo el matrimonio Kirchner”"
-Verdadero,"INSOSTENIBLELa afirmación de la diputada por UNEN resulta imposible de chequear, porque surge de estimaciones propias sin sustento. Los especialistas consultados destacan que medir el costo de la corrupción es una tarea difícil, dada la naturaleza ilegal de esos hechos."
-Falso,CFK: “Cuando llegamos al gobierno teníamos en el calendario seis vacunas y hoy tenemos 16 (…) y ahora incorporamos tres nuevas”
-Falso,"VERDADERODesde 2003 el país incorporó numerosas vacunas al Calendario Nacional, que el Estado provee en forma gratuita. Con las tres que se anunciaron ayer se llegará a 19. Los especialistas destacan la importancia que representa esta política para prevenir distintas enfermedades."
-Verdadero,"Binner: “[En Moreno] un solo hospital atiende a 500 mil habitantes, mientras que un centro de salud está abandonado”"
-Verdadero,"VERDADERO En el municipio solo hay un hospital, lo que ubica a Moreno entre los que menos tienen, y el peor si se tiene en cuenta la población. Existen numerosas unidades sanitarias, aunque se denuncia que dos fueron abandonadas antes de finalizarse, y éstas poseen una función distinta que no reemplaza a los hospitales."
-Verdadero,Fibertel: “Una de cada ocho parejas que se casaron el año pasado se conoció por Internet”
-Verdadero,INSOSTENIBLENo hay datos sobre matrimonio e Internet en el país. Una encuesta reciente de Estados Unidos dio como resultado que en casi tres de cada diez casamientos las personas se habían conocido en la red. ¿Qué cambia y qué se mantiene en la forma de buscar pareja?ADEMÁS...> La Argentina y el uso de las redes sociales
-Falso,"De Gennaro: “La precariedad laboral abarca a 8,5 millones de trabajadores en la Argentina”"
-Falso,"EXAGERADOSi bien hay una gran cantidad de trabajadores que se encuentra en la informalidad, la cifra es menor a la mencionada por el diputado. Para llegar a esa cifra, hay que incluir a los desocupados dentro los trabajadores precarizados."
-Falso,"Di Lello: “[En el Fuero Penal] entran 15 mil causas. Ahí arranca un sistema perverso, porque usted no puede cumplir plazos y tiene que demorar causas”"
-Falso,"VERDADERO, PERO…La cantidad de expedientes que ingresan por año en el sistema supera los casos resueltos, y dificulta el cumplimiento de los plazos del Código Procesal. Pero la mayor parte está vinculada con la tenencia personal de drogas, que podría ser archivada por la Justicia. Los especialistas señalan, además, otras dificultades en los casos de corrupción."
-Verdadero,Vidal: “Menos del 5% de las leyes que se aprueban por año son vetadas”
-Verdadero,"EXAGERADOMacri no es el Jefe de Gobierno de la Ciudad que más vetos realizó en relación a las leyes sancionadas por la Legislatura porteña, pero el porcentaje es superior al mencionado por Vidal. En los últimos dos años el promedio cayó ubicándose por debajo del 3 por ciento."
-Falso,"Llach: “El porcentaje invertido [en 2010 en Educación, Ciencia y Tecnología] es casi idéntico al del período 1999-2001”"
-Falso,"VERDADERO, PERO…El porcentaje sobre el PBI destinado a Educación en 2010 en base al nuevo PBI es similar al de los años mencionados por Llach. Pero la proporción es mayor en 2011 y 2012, y omite que desde la sanción de la Ley de Financiamiento Educativo en 2005 la inversión en el área aumentó."
-Verdadero,Sandra Russo: “[Boudou] todavía no ha sido imputado de nada”
-Verdadero,"FALSOPese a que aún no ha sido procesado, el Vicepresidente fue imputado en el caso Ciccone por dos fiscales y en dos causas que luego fueron unificadas."
-Falso,CFK: “Fuimos nosotros también los que llevamos de 6 vacunas que había a 16 vacunas”
-Falso,"VERDADERODesde 2003 el país incorporó numerosas vacunas al Calendario Nacional, que el Estado provee en forma gratuita. Los especialistas destacan la importancia que representa para prevenir distintas enfermedades."
-Verdadero,De Vido: “[La Argentina sólo tuvo autoabastecimiento energético] en la década del ’90 y un poco con los militares”
-Verdadero,"ENGAÑOSOHasta el final del gobierno de Alfonsín el país sólo contó durante períodos cortos con autoabastecimiento, aunque en mayor medida que lo señalado por De Vido. En esos años se alcanzó esa situación y se mantuvo hasta 2010. El Ministro no consideró lo ocurrido luego de la década del ‘90 porque lo calificó de “superávit trucho” por la falta de demanda."
-Falso,Pichetto: “El 20% de los presos en cárceles argentinas son extranjeros”
-Falso,"ENGAÑOSOEl senador del Frente Para la Victoria centró el problema de la inseguridad en la Argentina en la falta de los controles migratorios, pero citó cifras de detenidos de otros países que sobredimensionan a esta población."
+Verdadero,El dinero destinado a áreas de educación y salud es considerablemente mayor al que demandaron los estadios para el mundial de 2014. 
+Falso,CFK: la mortalidad materna [Entre 2009 y 2013] la hemos reducido a la mitad”
+Falso,Domínguez: “El problema del acceso a la vivienda está directamente relacionado con la falta de un reordenamiento poblacional. El 33% de la población se concentra en el 1% del territorio”
+Verdadero,CFK: “Cuando llegamos al gobierno teníamos en el calendario seis vacunas y hoy tenemos 16 (…) y ahora incorporamos tres nuevas”
+Verdadero,"Desde 2003 al 2014 Argentina incorporó 10 vacunas al Calendario Nacional, que el Estado provee en forma gratuita. Con las tres que se anunciaron ayer se llegará a 19. Los especialistas destacan la importancia que representa esta política para prevenir distintas enfermedades."
+Verdadero,"Llach: “El porcentaje invertido [en 2010 en Educación, Ciencia y Tecnología] es casi idéntico al del período 1999-2001”"
+Verdadero,El porcentaje sobre el PBI destinado a Educación en 2010 en base al nuevo PBI es similar al de 1999 - 2001. Desde la sanción de la Ley de Financiamiento Educativo en 2005 la inversión en el área de Educación ciencia y tecnologia aumentó.
 Falso,Capitanich: “El crédito duplicó su participación en el PBI entre 2003 y 2013”
-Falso,"ENGAÑOSOSi bien la participación del crédito creció en los términos mencionados por el Jefe de Gabinete, la Argentina es el país de la región con más baja participación de los préstamos en su Producto Bruto Interno (PBI). Además, la situación cambió desde la suba de las tasas de interés aplicada en febrero último."
-Falso,"Cobos, sobre Aerolíneas: “[No hay] una relación lógica entre empleados y cantidad de vuelos”"
-Falso,"VERDADEROEl diputado destacó algunos puntos de la gestión estatal, pero cuestionó el alto número de trabajadores para su nivel de actividad. Efectivamente, en comparación con otras aerolíneas, esta proporción es elevada."
-Verdadero,"Mario Ishii: “Desde que se fue el Servicio Militar, la [inseguridad] empeoró”"
-Verdadero,"FALSOEl senador defendió así un proyecto de consulta popular. Las tasas de delitos variaron desde 1994 hasta 2008 de acuerdo con la situación socio-económica en la Provincia. Además, existe un estudio que demuestra que los conscriptos que pasaron por el SMO tuvieron mayor probabilidad de delinquir que otros que no lo hicieron."
-Falso,La Nación: “Fuerte deterioro del campo en 10 años: la soja fue la única excepción”
-Falso,VERDADEROLa mayoría de los productos agropecuarios registraron una caída en la producción respecto de 2003. Algunos crecieron pero no en forma significativa.
-Verdadero,"Albino: “El 40% de la población argentina no tiene agua, y el 60% no tiene cloacas”"
-Verdadero,FALSOEl médico pediatra y fundador de CONIN mencionó este dato para referirse a la deuda social. La población que no tiene agua potable y desagües cloacales es mucho menor.
-Falso,"Alegre: “Este anteproyecto reduce las penas notablemente. Por ejemplo, saca la prisión perpetua y la prisión máxima es de 30 años”"
-Falso,"ENGAÑOSOSi bien el anteproyecto reduce la pena máxima, existen más delitos donde las penas aumentan que los que se reducen. El tope coincide con los años que establece el Estatuto de Roma, aunque sólo este último permite también la prisión perpetua."
-Falso,CFK: “Desde hace 50 o 60 años que no había nuevas formaciones en la República Argentina”
-Falso,"FALSOEn 1973 y 1983 el Estado nacional compró material rodante nuevo para las líneas Urquiza y Roca. La compra anunciada por la Presidenta es, sin embargo, la más importante de las últimas tres décadas."
-Falso,Kicillof: “[En alimentos y bebidas] la desaceleración se empieza sentir de la mano del programa Precios Cuidados”
-Falso,"INSOSTENIBLENo es posible calcular cuál es el impacto del programa Precios Cuidados por la falta de información oficial. De todas maneras, los especialistas consultados coinciden en la desaceleración del ritmo inflacionario."
-Falso,Lanata: “En la época de Menem no había producción mayorista [post cultivo] de droga como hay hoy”
-Falso,"VERDADEROLa Argentina no se caracteriza por el cultivo de drogas, pero sí participa en otras etapas del proceso de elaboración de estupefacientes. Esta tendencia aumentó en los últimos años como parte de un fenómeno regional."
-Verdadero,Scioli: “Aún tenemos una ley [de responsabilidad penal juvenil] que emanó de la dictadura y que ha sido cuestionada por la Corte Suprema”
-Verdadero,VERDADEROExisten criticas de la Justicia local e internacional por la violación de derechos de menores bajo la legislación actual. Hay denuncias por la falta de recursos para asegurar las condiciones básicas de detención.
-Verdadero,Tiempo Argentino: “Macri triplicó la deuda externa de la Ciudad”
-Verdadero,"VERDADEROLa deuda porteña aumentó un 221% en dólares. Si bien no es de las jurisdicciones con mayor peso de la deuda en sus ingresos, este indicador se mantuvo constante a pesar de que la Ciudad aumentó su recaudación; además, la mayoría de los recursos fueron destinados a financiar gastos corrientes."
-Verdadero,De Vido: “La Argentina tiene las tarifas y precios de energía ampliamente más competitivos de la región”
-Verdadero,"ENGAÑOSOEfectivamente el precio que pagan los consumidores finales en el Gran Buenos Aires es uno de los más bajos a nivel regional, pero existe una fuerte disparidad con los precios en el interior del país. Además, el bajo precio se debe al subsidio a las tarifas y a la presencia de recursos naturales en el territorio nacional."
-Falso,"Según De Lucía, no hay una migración de la escuela pública a la privada"
-Falso,"FALSOLos datos disponibles muestran que, en la última década, hubo un pasaje del sector estatal al privado en todos los niveles. Las escuelas privadas, además, ganaron terreno en el porcentaje del total."
-Falso,"Gerry Garbulsky: “Hay más accidentes de autos causados por gente que está usando el celular, mandando mensajitos de texto o hablando, que por gente alcoholizada”"
-Falso,"FALSOEl dato, en referencia a lo que sucede en los Estados Unidos, no coincide con las estadísticas oficiales de ese país. Hay estudios, sin embargo, que muestran que las consecuencias en el conductor pueden ser similares."
-Falso,Massa: “[Dará] lo mismo violar una vez que diez veces”
-Falso,"ENGAÑOSOSi bien el anteproyecto de nuevo Código Penal elimina la figura de la reincidencia, hay factores que podrán ser considerados por el juez a la hora de dictar una condena, que incluyen los antecedentes de la persona. Además, aquellos con condenas anteriores no tendrán algunos beneficios, como la suspensión del juicio a prueba (probation)."
-Falso,CFK: “La Argentina es el país que más se ha desendeudado del mundo”
-Falso,"FALSOLa Argentina no es el país que más disminuyó sus pasivos si se considera la deuda pública como porcentaje del PBI. Hay 17 naciones que en el período que toma la Presidenta disminuyeron su deuda en mayor proporción, incluso si se miran economías comparables con el caso argentino."
-Falso,"Baradel: “Es mentira que [el aumento del salario] es el 31%, es mentira que es para los que menos ganan”"
-Falso,"VERDADEROEl 30,9% de incremento difundido por el Gobierno provincial es para una parte de los maestros de grado. El resto de las categorías de docentes recibirán entre un 21% y un 24 por ciento. Como ambos son en tramos, si se contabiliza todo el año los aumentos son menores. El paro docente ya lleva 13 días."
-Verdadero,Macri: “Tres de cada mil [personas] que hoy están cometiendo un delito van a ir a la cárcel”
-Verdadero,"VERDADERO, PERO...El Jefe de Gobierno utilizó este dato para referirse a la baja tasa de condenas que existe en el sistema judicial argentino. El dato es correcto, aunque equipara hacer justicia con la prisión, cuando existen mecanismos alternativos de cumplir una pena."
-Verdadero,Alberto Fernández: “El Estado gasta en Fútbol Para Todos la mitad de lo que gasta en la Asignación Universal por Hijo”
-Verdadero,FALSOLa comparación realizada por el ex Jefe de Gabinete es incorrecta. El gasto destinado a la televisación del fútbol es una ínfima parte de lo que se gasta en la AUH.
-Falso,"Massa: “Con el nuevo Código la corrupción y sustracción de menores, el robo con armas y el tráfico de drogas son excarcelables”"
-Falso,"ENGAÑOSOLos cambios del anteproyecto modifican las penas de estos delitos, pero no implican necesariamente la libertad durante el juicio, aunque sí puede tener efecto sobre el cumplimiento de las condenas menores a tres años de prisión."
-Falso,"Kicillof: “Dicen que yo dije que no íbamos a pagar, nunca dije eso”"
-Falso,"VERDADEROEl ministro de Economía nunca hizo esa afirmación. Dijo que se pagaría el valor que determinara el Tribunal de Tasaciones de la Nación, y citó el caso del Grupo Marsans en el que este reclamó 1.000 millones por Aerolíneas Argentinas y se terminó depositando un peso luego de la tasación."
-Verdadero,"Stubrin: “En concursos públicos abiertos y permanentes, y en el plan técnico, a lo largo de estos 4 años no se hizo absolutamente nada”"
-Verdadero,"EXAGERADOEs correcto que el Plan Técnico no se terminó ya que no se realizó en las zonas con muchas emisoras, pero hubo avances en varias provincias. Se hicieron concursos aunque, a falta del Plan, no fueron permanentes como marca la ley."
-Falso,Berni: “Objetivamente en la Argentina no hay producción de drogas”
-Falso,"Si bien la etapa del cultivo de las hojas de coca no se realiza en el país, sí hay otras partes de la elaboración que se llevan a cabo."
-Falso,Binner: “Hay más de 5 millones de trabajadores que no están registrados”
-Falso,"VERDADERO, PERO…Si se incluye al total de los ocupados sin protección del Estado, es correcto, aunque si se considera a los asalariados no registrados a los que se refiere habitualmente con el término, el número es un poco inferior."
-Verdadero,Guillermo Pereyra: “El mínimo de los jubilados no se incrementa como el salario mínimo”
-Verdadero,FALSOEl senador utilizó este dato para rechazar una alianza con el Gobierno y criticar aumentos menores en las jubilaciones que en el salario mínimo. Tanto la última suba anunciada por Cristina Fernández de Kirchner como las anteriores estuvieron siempre por encima del aumento de ese salario.
-Falso,"Randazzo: “El parque automotor, en los últimos diez años, (…) prácticamente se duplicó”"
-Falso,"VERDADEROEl Ministro del Interior lo mencionó como un logro del Gobierno, aunque lo matizó por los problemas en la infraestructura que generó el crecimiento. Los datos son correctos."
-Verdadero,"Capitanich, sobre el fallo de la Corte: “La Justicia debería también obligar a los medios a divulgar los actos de gobierno, como cuando se inaugura una vivienda”"
-Verdadero,"Existe un principio de publicidad de los actos de gobierno, pero refiere a que los representantes deben hacer públicos sus actos y no actuar en secreto. Ni la Corte Suprema ni el Ejecutivo pueden obligar a los medios a difundir determinado contenido, salvo casos excepcionales como con la cadena nacional."
-Falso,Ritondo: “Los legisladores porteños son los que menos cobran en todo el país”
-Falso,"FALSOEl Vicepresidente 1º de la Legislatura respondió así a una nota de La Nación, que hablaba de un aumento mayor al 50% en los sueldos brutos de los legisladores. Sin embargo, hay al menos siete Cámaras de Diputados del país donde cobran menos que en la Ciudad."
-Falso,"Massa: “Desde 2003 hasta acá, las tasas municipales son las que menos han acompañado la inflación”"
-Falso,"VERDADERO, PERO…En el nivel municipal el incremento fue menor que en el nivel provincial y nacional, pero estuvo siempre por encima de la inflación. En los municipios bonaerenses, sin embargo, los ingresos crecieron por encima que la recaudación nacional en los últimos años. ADEMÁS...>Descentralización y nuevas tasas"
+Verdadero," Las tasas de delitos variaron desde 1994 hasta 2008 de acuerdo con la situación socio-económica en la Provincia. Además, existe un estudio que demuestra que los conscriptos que pasaron por el SMO tuvieron mayor probabilidad de delinquir que otros que no lo hicieron."
+Verdadero,La mayoría de los productos agropecuarios registraron una caída en la producción respecto de 2003 a 2014.
+Falso,En 1973 y 1983 el Estado nacional compró material rodante nuevo para las líneas de subte Urquiza y Roca. 
 Verdadero,Rubinstein: “Hay más personas con sobrepeso que con desnutrición”
-Verdadero,VERDADEROLa evolución de la obesidad en el mundo hoy la vuelve más frecuente que la falta de alimento.
-Verdadero,"CFK: “No hay ningún sector en el que todos sus insumos sean importados, salvo el tema de celulares y electrodomésticos”"
-Verdadero,"ENGAÑOSO La Presidenta criticó así el aumento de precios luego de la devaluación. Pero hay distintos sectores con una gran cantidad de partes producidas en otros países, aunque no sea la totalidad del producto. Además, existe un impacto indirecto del aumento del dólar en sectores que no necesariamente tienen sus costos en esta moneda."
-Falso,"Bullrich: “Estamos cubriendo el 100% de las vacantes para los chicos que tienen 4 años o más, por encima del promedio de la OCDE”"
-Falso,"VERDADERO, PERO...La cobertura escolar para chicos de 4 y 5 años de edad supera en la Ciudad a la de varios países desarrollados. Pero varios de esos países no priorizan el ingreso temprano en el sistema educativo. Además, el principal conflicto de vacantes en los colegios porteños ocurre entre los 0 y 3 años de edad."
-Verdadero,Capitanich: “En este teléfono no hay ningún llamado del gobernador José Manuel De la Sota”
-Verdadero,ENGAÑOSOEl jefe de Gabinete lo afirmó luego de las protestas policiales en Córdoba. Chequeado realizó en conjunto con La Voz del Interior un pedido de información pública sobre las comunicaciones de esos días para confirmar si el Gobierno de la Provincia pidió a tiempo asistencia a la Nación.
-Falso,"Scioli: “El gobierno nacional fijó prioridades, creó 5 millones de puestos de trabajo”"
-Falso,"ENGAÑOSOLa cifra de creación de empleos mencionada por el Gobernador de la Provincia de Buenos Aires no representa la cantidad de trabajadores que salieron de la desocupación en la última década. Si se toma el número de nuevos ocupados, la evolución es menor."
-Falso,Altamira: “El 75% de los jubilados cobra la mínima de 2.477 pesos”
-Falso,"VERDADERO, PERO…El dato es cierto, pero la mayoría de los jubilados que perciben el haber mínimo lo obtuvieron debido a medidas tomadas por el Gobierno nacional en esta década. Sin ellas, no gozarían de este beneficio."
-Verdadero,Kicillof sobre la compra de dólares: “El mecanismo tendrá un sesgo hacia los que menos tienen”
-Verdadero,"El ministro de Economía lo afirmó el domingo último. Sin embargo, las condiciones que se dieron a conocer hoy muestran que el 75% de los ocupados no podrá acceder a la divisa. Quienes podrán comprarla son los que tienen mayores ingresos."
-Falso,La Nación: “En la Argentina muere más gente producto de un accidente de tránsito que a raíz de un hecho delictivo”
-Falso,"VERDADEROEfectivamente, las víctimas fatales por hechos de tránsito superan a los homicidios producidos con intención. La situación no es exclusiva de la Argentina, sino que sucede en la mayoría de los países del mundo."
-Verdadero,Moyano: “En este gobierno se duplicó la pobreza y la falta de trabajo”
-Verdadero,"FALSOAunque no está claro a qué período se refirió el dirigente sindical, tanto desde 2003, cuando comenzó el gobierno de Néstor Kirchner; como desde 2007, cuando arrancó la Presidencia de Cristina Fernández, la pobreza y la desocupación descendieron, aunque a diferente ritmo."
-Falso,Bossio: “La Argentina tiene la cobertura previsional más alta de la región”
-Falso,"VERDADERO, PERO…El país cuenta con la mayor cobertura jubilatoria de América Latina, salvo por el caso de Bolivia, donde se trata de pensiones universales que no exigen aportes y el monto básico es más bajo."
-Verdadero,Macri: “Este es el Gobierno que más impuestos cobró en la historia”
-Verdadero,El dato mencionado por el jefe de Gobierno porteño es correcto. La Argentina es el país con mayor carga impositiva de América Latina. La Ciudad también registró una fuerte suba de su presión tributaria en los últimos años.
-Verdadero,Solanas: “Ningún acuerdo de precios ha parado la inflación”
-Verdadero,"DISCUTIBLENo hay consenso sobre la eficacia de estas medidas. En el país hubo varios y diferentes acuerdos. Algunos fracasaron y otros, tuvieron cierto éxito, aunque durante períodos limitados. Los especialistas destacan que puede ser un elemento útil dentro de un conjunto de políticas."
-Falso,Capitanich: “Las convenciones colectivas de trabajo eran 200 en el año 2002 y ahora son aproximadamente 1500”
-Falso,"VERDADEROEl jefe de Gabinete utilizó este dato para responder a los sindicatos que pidieron paritarias cada seis meses o, incluso, cada tres. Los datos oficiales muestran este aumento en la última década. Aunque desde 2010 se ve una merma en los convenios, los trabajadores alcanzados por estos se mantienen."
+Verdadero,La evolución de la obesidad en el mundo la vuelve más frecuente que la falta de alimento.
+Verdadero,La Nación: “En la Argentina muere más gente producto de un accidente de tránsito que a raíz de un hecho delictivo”
+Verdadero,"Efectivamente, las víctimas fatales por hechos de tránsito superan a los homicidios producidos con intención. La situación no es exclusiva de la Argentina, sino que sucede en la mayoría de los países del mundo."
 Verdadero,De Mendiguren: “La relación con China implica 90% de exportación en commodities contra 90% de importación en manufacturas”
-Verdadero,VERDADEROEl intercambio comercial con el país asiático efectivamente muestra este desbalance.
-Verdadero,"Piccardo: “En 2013 el subte tuvo 252 millones de pasajeros, un 7% más que el año anterior”"
-Verdadero,"ENGAÑOSOLa cifra de aumento mencionada por el presidente de SBASE es correcta. Sin embargo, el incremento señalado se produjo en relación a 2012, el año de menor venta de pasajes de la última década."
-Falso,Carrió: “Reutemann se saca fotos con Massa pero vota con el oficialismo”
-Falso,"FALSOLa diputada de UNEN criticó a quienes “figuran como opositores en las fotos pero votan con Cristina” y se refirió al ex gobernador de Santa Fe. La afirmación respecto del comportamiento legislativo del senador es falsa, de acuerdo con las votaciones de la Cámara alta."
-Falso,Colombi: “La Nación se está quedando con casi el 77 o 78% de los recursos”
-Falso,DISCUTIBLEEl gobernador de Corrientes se refirió a la distribución de fondos en medio de la renegociación de la deuda provincial con el gobierno nacional. La veracidad de la frase depende de las transferencias que se consideren para evaluar la relación Nación-Provincias.
-Falso,Macri: “Bajamos de más de 6 mil toneladas a 3.800 toneladas que tenemos que disponer”
-Falso,"VERDADERO, PERO...Los envíos de la Ciudad a la Ceamse disminuyeron en las proporciones mencionadas con respecto a diciembre de 2012, y están en línea con el acuerdo de la CABA y la Provincia de Buenos Aires. Pero, aún así, las cantidades superan los límites establecidos en la Ley de Basura Cero."
-Verdadero,"Rossi, sobre Milani: “La decisión está en el marco de la que hemos tomado cada vez que hemos impulsado un ascenso”"
-Verdadero,"FALSOEl ministro de Defensa planteó que la aprobación del pliego del jefe del Ejército siguió los parámetros utilizados hasta el momento. Sin embargo, esta vez no fue tomada en cuenta la impugnación del CELS, como en años anteriores, y existe un caso similar al de Milani en el que el oficialismo rechazó el ascenso en el Senado."
-Falso,Capitanich: “El gobierno nacional ha incorporado casi 10 mil megavatios en los últimos 10 años”
-Falso,ENGAÑOSOLa cifra es menor a la mencionada por el Jefe de Gabinete y además es un aumento menor al de la década del ‘90. Los especialistas coinciden en que los problemas actuales están más ligados a la distribución que a la producción.
-Falso,Pagni: “En los últimos años los empleados del Estado han ido perdiendo poder adquisitivo”
-Falso,"DISCUTIBLELa evolución de los salarios públicos depende del indicador que se utilice para medirlo. El elegido por el periodista efectivamente muestra una disminución, pero indicadores alternativos reflejan un aumento real. ADEMÁS...> ¿Y en los diez años?"
-Falso,"Duhalde, después de los aumentos a la Policía Bonaerense: “Los agentes representan [sólo] el 10% de los empleados provinciales”"
-Falso,"VERDADEROEl ex presidente de la Nación utilizó este dato para dimensionar la crisis que podría tener el gobernador bonaerense, Daniel Scioli, en caso de que los otros sectores estatales pidan aumentos similares. Los datos coinciden con su afirmación."
-Verdadero,Kicillof: “Prácticamente se duplicó la inversión de YPF desde que el Estado tiene el control”
-Verdadero,"EXAGERADOLa inversión de la petrolera se incrementó en los términos mencionados por el ministro de Economía. Sin embargo, considerando la fluctuación del tipo de cambio, el aumento es menor en términos reales."
-Falso,"Bonfatti, sobre los homicidios: “Un 16% es por disputas de narcotráfico”"
-Falso,VERDADEROEl gobernador de Santa Fe aclaró que el problema de la violencia en su provincia es más amplio que los crímenes relacionados con el negocio de las drogas. Los datos sostienen esta afirmación.ESCUCHÁ CÓMO SE HIZO ESTE CHEQUEO:
-Verdadero,Sileoni: “Casi ocho de cada diez alumnos argentinos de 15 años de edad comprende lo que lee”
-Verdadero,"ENGAÑOSOEl ministro de Educación realizó una lectura singular de los resultados de la prueba de la OCDE. Si se utiliza la metodología del organismo, el número que mencionó es mucho menor y disminuyó con respecto a 2009."
-Falso,"Sabbatella: “Hay más de cien mil puestos de trabajo, directos e indirectos, frutos de la aplicación de ley”"
-Falso,FALSOLos números de creación de empleo están lejos de los citados por el titular de la AFSCA.
-Falso,"Carrió: “Con esta reforma, en el accidente de Once el Estado no sería responsable”"
-Falso,"EXAGERADOEs cierto que el proyecto sancionado por Diputados establece que el Estado no es responsable de los perjuicios ocasionados por prestadores de servicios públicos. Sin embargo, eso no cierra por completo la puerta a posibles demandas."
-Falso,Capitanich defendió su gestión: “No es cierto que el 70% [de la población chaqueña] no tenga agua potable. Es falso”
-Falso,"VERDADERO, PERO...El jefe de Gabinete desmintió así un dato que había sido difundido por el periodista Jorge Lanata. La población que no tiene agua potable en Chaco es mucho menor, pero la provincia se encuentra lejos de cumplir con las metas del milenio de la ONU."
-Verdadero,Alak: “Los jueces son nombrados por el Consejo de la Magistratura”
-Verdadero,"ENGAÑOSOEl ministro de Justicia respondió así el pedido de la Corte Suprema de que se cubran las vacantes en los tribunales del Norte del país. Aunque es cierto que el Consejo acumula atrasos, el Ejecutivo no está exento de responsabilidad."
-Falso,Bossio: “Casi el 60% de chicos del país recibe fondos de la ANSES”
-Falso,El porcentaje de menores de 18 años alcanzados por la Asignación Universal por Hijo (AUH) o por las asignaciones familiares coincide con el mencionado. La última actualización de los topes salariales incrementó la cantidad de chicos que reciben algún beneficio.
-Verdadero,Etchevehere: “Estamos ordeñando la misma cantidad de leche que en 1999”
-Verdadero,"EXAGERADOEl titular de la Sociedad Rural lo aseguró al referirse a los problemas con la producción de alimentos en el país. La producción actual supera la de fines de los ‘90, aunque no se registra una diferencia sustancial."
-Falso,Capitanich: “Somos una provincia récord en materia de reducción de mortalidad infantil”
-Falso,"VERDADEROEl gobernador de Chaco lo señaló como uno de los avances de su gestión, iniciada hace cinco años. Los datos confirman sus dichos."
-Verdadero,“Tigre gasta más del quíntuple que la Provincia en publicidad en función de sus presupuestos”
-Verdadero,"VERDADEROJuan Courel destacó este dato para responder a las críticas del intendente de Tigre y flamante diputado electo, Sergio Massa, al proyecto de Presupuesto presentado por el Poder Ejecutivo de la Provincia. Los datos oficiales respaldan su afirmación."
-Verdadero,"Mussi, sobre la Cuenca Matanza-Riachuelo: “Estamos aproximadamente en un 50% de la solución”"
-Verdadero,"INSOSTENIBLEEl Secretario de Medio Ambiente de la Nación ponderó su gestión en el Plan Integral de Saneamiento Ambiental de la Cuenca. Sin embargo, la ACUMAR no cuenta con un sistema de indicadores que permita medir su nivel de cumplimiento."
-Falso,Esteban Bullrich: “En las escuelas que fueron tomadas bajó la inscripción”
-Falso,"INSOSTENIBLEEl Ministro de Educación de la Ciudad quiso destacar así el impacto que tienen las tomas en la baja de la matrícula estatal. Sin embargo, con la información disponible, no existe evidencia estadística suficiente que relacione ambas variables."
-Falso,Scioli: “En estos 10 años el país ha tenido el mayor crecimiento de los últimos 200 años”
-Falso,"EXAGERADOEl Gobernador lo aseguró frente a un grupo de intendentes. Si bien el período iniciado en 2003 fue uno de los de mayor crecimiento, no es el más importante desde 1810."
-Falso,Moreno: “Tres de cada diez productos se venden en los supermercados”
-Falso,"FALSOEl funcionario argumentó así que no hay gran concentración en el comercio. Si se tienen en cuenta los grandes supermercados y los hipermercados, el peso en la venta es mayor a la expresada. ADEMÁS...> La concentración en otros países"
-Falso,Sabbatella: “Nada de eso [la asignación discrecional de la pauta oficial] sucede en la Argentina”
-Falso,FALSOEl titular de la AFSCA se refirió a este tema al hablar de las recomendaciones consignadas en el fallo de la Corte sobre la llamada “ley de medios”. Los datos oficiales y los fallos al respecto muestran que sí existe un reparto arbitrario de la pauta oficial en el país.
-Falso,"Taiana: “Desde 2010, el Instituto de la Vivienda no ha construido ni una sola vivienda”"
-Falso,"EXAGERADOEl IVC sí finalizó viviendas en los últimos años, pero fueron pocas, en comparación con otras provincias; además, el presupuesto destinado al área viene descendiendo en los últimos años."
-Falso,"Taiana: “Los fondos para vivienda de 2013 alcanzaron sólo el 3,07% del total del presupuesto general”"
-Falso,"VERDADERO El candidato a legislador del Frente para la Victoria (FpV) destacó este dato para criticar la política habitacional de la Ciudad. El porcentaje para 2012 coincide con su frase, pero el de 2013 es más bajo que el mencionado y viene descendiendo desde 2011."
-Verdadero,Michetti: “Logramos en seis años que el 3% de inversión en Infraestructura pasara a ser el 23%”
-Verdadero,"FALSOCuando Mauricio Macri asumió como jefe de Gobierno, el porcentaje del presupuesto destinado a Infraestructura era superior al mencionado por Michetti, y en ningún año de su gestión alcanzó el 23% del total."
-Falso,Stolbizer: “Sólo el 20% de los que fueron detenidos tenían trabajo fijo cuando cometieron ese delito”
-Falso,VERDADEROLa población carcelaria que tenía un empleo a tiempo completo al momento de ser detenida es la mencionada por la candidata.
-Verdadero,Solanas: “El kirchnerismo en diez años no construyó un kilómetro de vía”
-Verdadero,"VERDADERO, PERO...Los datos disponibles y los expertos coinciden en que la red ferroviaria no se amplió. Pero también mencionan que se debe considerar el debate sobre si es necesario realizar nuevas vías o utilizar las ya existentes que están sin funcionar."
-Verdadero,"Filmus: “[Logramos] la incorporación de 2,5 millones de personas a una jubilación”"
-Verdadero,"EXAGERADOEl candidato a senador se referió a los logros de gestión del sistema previsional. Si bien aumentó la cobertura, los número no alcanzan los citados."
-Falso,Solanas: “Argentina hoy es el tercer exportador mundial de cocaína”
-Verdadero,"Michetti: “Nosotros trabajamos por un país donde los chicos de 15 años comprendan lo que leen, y no sólo la mitad de ellos como pasa hoy”"
-Verdadero,"VERDADERO, PERO...Los datos muestran que la mitad de los jóvenes no adquieren los conocimientos mínimos para desenvolverse. Pero este universo incluye a jóvenes con distintos niveles de dificultad para comprender un texto."
-Verdadero,"Filmus: “[Según datos del FMI] la Argentina, después de China y la India, es el país que más va a crecer [en 2013]”"
-Verdadero,"FALSOEl candidato a senador por la Ciudad citó información del organismo internacional para afirmar que el país sería uno de los de mayor crecimiento. Los datos, sin embargo, muestran que la Argentina crecerá por debajo de muchos países."
-Falso,Carrió: “La única vez que la Argentina pudo sostener un crecimiento económico sostenido fue desde el año 1860 a 1930”
-Falso,"VERDADERO, PERO... El país logró, durante ese período, un crecimiento que no volvió a registrarse. Sin embargo, la candidata omite algunas caracterìsticas de este lapso, como las crisis recurrentes, el endeudamiento público y la concentración de la riqueza."
-Verdadero,Binner: “Tenemos la mortalidad infantil y materna más baja del país”
-Verdadero,"FALSOSi bien Santa Fe redujo la mortalidad infantil y materna durante la gestión de Hermes Binner al frente de la Gobernación, la Provincia no ocupa los primeros puestos en ninguno de los dos indicadores. Además, varias provincias lograron una reducción mayor en esos cuatro años."
-Falso,Massa: “Hay una caída del 80% del robo automotor en cinco años” en Tigre
-Falso,"EXAGERADOLos datos disponibles muestran que la reducción fue de diez puntos menos al porcentaje que mencionó el candidato del Frente Renovador. De todas maneras, Tigre logró una importante baja de este delito y es el que más consiguió reducirlo en la Zona Norte.ADEMÁS...>Lomas de Zamora y el robo de autos"
+Falso,"Piccardo: “En 2013 el subte tuvo 252 millones de pasajeros, un 7% más que el año anterior”"
+Verdadero,"Taiana: “Los fondos para vivienda de 2013 alcanzaron sólo el 3,07% del total del presupuesto general”"
+Verdadero,Carrió: “La única vez que la Argentina pudo sostener un crecimiento económico sostenido fue desde el año 1860 a 1930”
 Falso,"Urtubey: “[El voto electrónico] es un sistema muy sencillo, que da certezas y garantías”"
-Falso,ENGAÑOSOEl voto electrónico es discutido en el mundo y varios ejemplos muestran que este sistema de sufragio no es sinónimo de transparencia.
-Falso,Cobos: “El 85% de los detenidos no terminó los estudios primarios”
-Falso,"EXAGERADOEl porcentaje de personas privadas de su libertad que no finalizó la primaria está lejos del mencionado por Cobos. Pese a esto, el número mencionado por el candidato mendocino coincide con los presos que no terminaron los ciclos de educación obligatorios, que alcanzan al Secundario."
-Falso,Julio Pereyra: “En cloacas estamos cerca del 70% y en agua potable cerca del 100%”
-Falso,"FALSOEl intendente de Florencio Varela buscó descalificar así un informe del programa ""Periodismo Para Todos"" que puso en evidencia la falta de servicios básicos en gran parte de la población del municipio. Sin embargo, la cobertura de cloacas y agua potable en el distrito es menor a la mencionada por Pereyra."
-Falso,Macri: “Por primera vez en 30 años se anotan más chicos en la escuela pública -primaria y jardín- que en la privada”
-Falso,"EXAGERADOEl Jefe de Gobierno afirmó algo que no es estrictamente verdadero. No es la primera vez desde 1983 en la que matrícula estatal de la Ciudad aumentó más que la privada, pero sí lo es desde 2003."
-Falso,Lousteau: “En los últimos dos años no se han generado puestos de trabajo casi en el sector privado”
-Falso,VERDADEROLa creación de empleos en el sector privado fue cayendo a medida que avanzó la década.
-Verdadero,Sileoni: “Todas las cifras de la educación argentina hoy son mejores de las que estaban”
-Verdadero,"EXAGERADOLa mayoría de los indicadores muestran una mejora. Sin embargo, hay otros que se mantienen estables, y además hay objetivos de la Ley de Financiamiento Educativo que no se cumplieron."
-Falso,Binner: “El 40% de los niños y adolescentes [de 0 a 17 años] son pobres”
-Falso,DISCUTIBLEEl candidato a diputado nacional por Santa Fe lo afirmó para cuestionar la referencia a la “década ganada”. No está claro que la afirmación sea verdadera o no. La falta de estadísticas oficiales confiables sobre pobreza provoca que la conclusión dependa de qué fuente alternativa se tome.
-Falso,"Yauhar: “Venimos sosteniendo una producción importantísima, alrededor de los 12 mil millones de litros de leche”"
-Falso,"VERDADERO, PERO...La cifra mencionada por el funcionario es cercana a la publicada por el Ministerio de Agricultura para el año 2012 y representa una cifra récord de producción lechera. Sin embargo, en los primeros meses de 2013 se observa una caída."
-Verdadero,"Feletti: “Si uno mira todos los años previos [el presupuesto] se ha venido cumpliendo, punto más, punto menos”"
-Verdadero,"FALSO Si se analizan variables como el crecimiento y la inflación, las proyectadas en el Presupuesto en los últimos años estuvieron lejos de lo registrado finalmente."
-Falso,"Según CFK, el sistema argentino de interconexión eléctrica se expandió 5.000 km"
-Falso,"VERDADEROEl crecimiento expresado por la jefa de Estado es verdadero. Si se considera el último anuncio, la red de alta tensión en la Argentina se expandió en 4800 kilómetros desde 2003. Y la mayor parte de este crecimiento se produjo entre 2007 y 2013."
-Verdadero,Petrella: “Somos el primer gobierno en entregar títulos de propiedad en villas y buscar incorporarlas en la Ciudad”
-Verdadero,"ENGAÑOSOLa gestión actual fue la primera en otorgar escrituras en la ex Villa 19, como dijo el candidato del PRO. Sin embargo, la frase parte de una premisa falsa: que la regularización implica per se beneficios en las condiciones de la vivienda. De las seis leyes de urbanización que tiene la Ciudad, todas fueron incumplidas, incluso la de la Villa 31 votada durante la gestión Macri."
-Falso,Juez: “Córdoba se convirtió en la primera cocina de cocaína del país”
-Falso,"INSOSTENIBLENo existe un estudio específico que permita sostener esta afirmación. Los últimos datos oficiales corresponden al período 2000-2006, y ubican a Córdoba en segundo lugar, luego de la Provincia de Buenos Aires, pero el mismo informe aclara que no son representativos del total país."
-Falso,Scioli: “Los giros del Gobierno provincial a los municipios aumentaron un 50% en un año”
-Falso,"VERDADEROLa afirmación del Gobernador de la Provincia de Buenos Aires coincide con los datos disponibles. Y es el resultado de tomar la transferencia de fondos a los municipios en lo que va de 2013, en comparación con el mismo período de 2012."
-Verdadero,Sapag: “El 95% del agua de Neuquén va a parar al mar. Solamente se va a usar el 1% del agua que se va al mar para estos desarrollos”
-Verdadero,"ENGAÑOSOEs cierto que el proyecto de Loma La Lata requiere una cantidad ínfima del agua de la provincia. Sin embargo, las principales críticas al fracking refieren a la contaminación del agua más que a su excesivo uso."
-Falso,Lozano: “Dicen que van a gravar la renta pero en realidad van a gravar la rentita”
-Falso,VERDADEROEl proyecto enviado por el oficialismo al Congreso sólo grava una parte de una de las seis actividades económicas que están exentas del pago de Ganancias.
-Verdadero,Berni: “En casi todos los delitos (…) hay involucrados menores”
-Verdadero,"INSOSTENIBLENo existe información oficial disponible que permita sostener la afirmación del Secretario de Seguridad de la Nación. Las fuentes alternativas, de alcance local, muestran que los crímenes cometidos por menores de 18 años representan un porcentaje menor del total.ADEMÁS...>Baja de imputabilidad de hecho"
-Falso,"Naidenoff: “El 67% de los chicos que son explotados, son explotados o trabajan en el hogar, o están bajo la dependencia de un familiar”"
-Falso,INSOSTENIBLEEl senador radical mencionó este dato para oponerse a una ley sancionada en marzo de 2013. Pero el cálculo realizado por Naidenoff tiene errores metodológicos y está desactualizado.
-Falso,Sapag: “Nosotros tenemos la legislación ambiental [petrolera] más exigente de la República”
-Falso,"VERDADEROEfectivamente, Neuquén, a diferencia de otras provincias del Sur, cuenta con normas específicas de explotación hidrocarburífera que van más allá de la protección nacional. Un ejemplo es el reciente decreto que regula la técnica del fracking."
-Verdadero,"CFK: “Tenemos un país donde se permite (…) realizar tareas de cabotaje a empresas extranjeras, cosa que no es recíproca”"
-Verdadero,"FALSOLa Argentina no permite que empresas de otro país realicen servicios de cabotaje en territorio nacional. En Chile, en cambio, sí se acepta que las líneas aéreas extranjeras operen en el mercado doméstico."
-Falso,Solanas: “La Ley de Glaciares no se ejecuta”
-Falso,"EXAGERADOEl inventario de Glaciares que ordena realizar la ley se está llevando a cabo, pero no se han respetado los plazos ni la prioridad de ciertas áreas en las que se realizan actividades prohibidas, como la minería.ADEMÁS...>El caso de San Juan"
-Falso,"Lanata: “Sacaron a Seychelles de la lista de paraísos fiscales. (…) Era un paraíso fiscal, después dejó de serlo”"
-Falso,"FALSOLa Isla de Seychelles continúa formando parte del listado de paraísos fiscales reconocido por la Argentina. Eso es así, al menos, hasta tanto la AFIP publique una nueva nómina de países cooperadores en materia de intercambio de información fiscal. Se desprende del Decreto 589/2013 y de lo que interpretan los especialistas consultados para este chequeo."
-Falso,"Zaffaroni: “En la Ciudad, si se excluyen los homicidios en las villas, habría 3,5 muertos cada cien mil habitantes, (…) el mismo indicador que en Europa”"
-Falso,"EXAGERADOEs cierto que si se excluyen los barrios de emergencia del cálculo, la tasa de homicidios es baja, pero es un punto superior a la que mencionó el Ministro de la Corte Suprema, que equivale a casi 30 homicidios más."
-Falso,Scioli: “Tigre es un municipio que tiene un 40% de superficie de barrios cerrados”
-Falso,"VERDADEROEl municipio que gobierna Sergio Massa posee una gran parte de su superficie continental ocupada por barrios privados, que alcanza ese porcentaje. El poder de policía del Estado es menor dentro de estos espacios."
-Verdadero,Michetti: “Hemos logrado hacer 31 escuelas nuevas en la Ciudad de Buenos Aires”
-Verdadero,"ENGAÑOSOLa afirmación coincide con una lista oficial del Ministerio de Educación de la Ciudad de Buenos Aires. Pero este total incluye establecimientos iniciados por gestiones anteriores, y, además, el Gobierno de la Ciudad no terminó otras escuelas que se había comprometido a construir."
-Falso,Carrió: “La corrupción es la madre de la pobreza”
-Falso,DISCUTIBLEExisten distintas posiciones respecto del vínculo que existe entre corrupción y pobreza y no hay datos que confirmen una relación directa.
-Falso,CFK: “La inversión en salud pública creció 10 veces en el Presupuesto”
-Falso,"Durante la gestión iniciada en 2003 las partidas presupuestarias sanitarias aumentaron, pero los incrementos no llegaron a multiplicarse por diez. Además, la participación de Salud en el presupuesto total bajó."
-Falso,Prat Gay: “Cuando fui Presidente del Banco Central asumí con una inflación del 40%. La bajamos al 4% en un año”
-Falso,"ENGAÑOSOLa afirmación del candidato a senador por Juntos coincide con los datos. Pero la tendencia a la baja se inició durante la presidencia anterior a la de Prat Gay en el Banco Central, y fue consecuencia de medidas adoptadas con anterioridad a su gestión."
-Falso,Frente de Izquierda: “El 75% de los jubilados cobra 2150 pesos”
-Falso,"VERDADERO, PERO... El dato que menciona el spot es cierto, pero la mayoría de los jubilados que perciben el haber mínimo lo obtuvieron debido a medidas tomadas por el Gobierno nacional en esta década. Sin ellas, no gozarían de este beneficio."
-Verdadero,Sturzenegger: “Hace una década había un millón de familias en la Argentina con déficit habitacional. Ese número hoy es dos millones”
-Verdadero,"VERDADEROEl cálculo es correcto si se tienen en cuenta los hogares que comparten viviendas y que viven en casas en condiciones irrecuperables, durante el período 2001-2013."
-Verdadero,CFK: “Hemos batido récord de producción: más de 105 millones de toneladas de producción granaria de la Argentina”
-Verdadero,"ENGAÑOSOLa Presidenta citó un dato que coincide con la información oficial. Pero a ese resultado se llega gracias a una modificación metodológica en el cálculo de la cosecha, que sólo genera grandes cambios en el maíz. La cosecha 2012/2013, medida con los parámetros anteriores, no es mayor que el récord de 2010/2011."
-Falso,Cabandié: “Con la mitad del presupuesto de lo que salió este Metrobus se podría haber acelerado la frecuencia de la Línea C”
-Falso,"ENGAÑOSOLa afirmación del legislador y candidato del Frente para la Victoria coincide con los datos, pero la dicotomía que plantea es falaz porque ambos servicios atienden demandas diferentes. Ni el Gobierno nacional ni el de la Ciudad mejoraron el sistema de señales y la frecuencia de la línea C."
-Falso,Insaurralde: “Hemos destinado a seguridad el 10% del presupuesto (…) abocados a un sistema de seguridad integral”
-Falso,"ENGAÑOSOLa veracidad de la afirmación del candidato del Frente para la Victoria depende de lo que se tome como presupuesto total. Además, el mayor gasto no implica que se esté llevando a cabo una política de Estado, como afirmó el intendente de Lomas de Zamora."
-Falso,Florencia Saintout: “El 70% de las noticias sobre jóvenes se publican en la sección policial”
-Falso,VERDADEROLa mayor cantidad de noticias que involucran o refieren a los jóvenes están ligadas a temas de violencia. El fenómeno no es exclusivo de los medios gráficos.
-Verdadero,"Milani: “Tomando todo el presupuesto en su conjunto, lo que va destinado a Inteligencia es apenas el 1,7%”"
-Verdadero,"ENGAÑOSOEl porcentaje mencionado por el Jefe del Ejército es similar al que muestran las cifras oficiales, pero su frase oculta que el gasto de la Jefatura de Inteligencia es el que más aumentó desde 2007 si se lo compara con lo ejecutado por el Ministerio de Defensa y por el Ejército."
+Verdadero,La red de alta tensión en la Argentina se expandió en 4800 kilómetros desde 2003. Y la mayor parte de este crecimiento se produjo entre 2007 y 2013.
+Falso,Sapag: “El 95% del agua de Neuquén va a parar al mar. Solamente se va a usar el 1% del agua que se va al mar para estos desarrollos”
+Verdadero,Sapag: “Nosotros tenemos la legislación ambiental [petrolera] más exigente de la República Argentina”
+Verdadero,"Efectivamente, Neuquén, a diferencia de otras provincias del Sur, cuenta con normas específicas de explotación hidrocarburífera que van más allá de la protección nacional."
+Verdadero,La Isla de Seychelles continúa formando parte del listado de paraísos fiscales reconocido por la Argentina.
+Verdadero,"El municipio que gobierna Sergio Massa posee una gran parte de su superficie continental ocupada por barrios privados, que alcanza ese porcentaje. El poder de policía del Estado es menor dentro de estos espacios."
 Falso,Kicillof: “No hay empresa estatal de petróleo que no esté asociada con capitales extranjeros para la explotación de hidrocarburos”
-Falso,"EXAGERADOLa afirmación es cierta en la gran mayoría de los casos, aunque existen excepciones. Hay diferentes tipos de contrato entre la parte estatal y la privada."
-Falso,Etchevehere: “En la década (…) se cerraron 125 frigoríficos”
-Falso,"VERDADERO, PERO...La cantidad de frigoríficos en la Argentina disminuyó entre 2003 y 2012, aunque el descenso que menciona el Presidente de la Sociedad Rural Argentina se produjo a partir de 2008 y no desde la asunción de Néstor Kirchner."
-Verdadero,"Insaurralde: “Cuando yo asumí, teníamos el 20% de cobertura de agua potable y ahora tenemos el 95%”"
-Verdadero,"FALSOEl Intendente de Lomas de Zamora quiso destacar así el aumento de la población que accede a este servicio. Sin embargo, el porcentaje que mencionó no se alcanzó en lo que va de su gestión: ya en 2001 Lomas de Zamora contaba con ese porcentaje de cobertura."
-Falso,Solanas: “Todavía en la Argentina el 55% de los que trabajan se llevan al bolsillo $3200”
-Falso,"VERDADERO, PERO... La cifra citada por el candidato es similar al porcentaje de trabajadores que reciben ese ingreso como máximo. En el cálculo, sin embargo, se incluye a quienes trabajan menos de 35 horas semanales. En términos reales, la situación mejoró en comparación con los ‘90 y 2001."
-Verdadero,"CFK: “Quisieron montar (…) que había una suerte de espionaje de la Gendarmería, Proyecto X, inexistente”"
-Verdadero,FALSOEl programa de inteligencia Proyecto X fue reconocido por el propio Ministerio de Seguridad de la Nación. Hay una causa judicial para determinar si fue utilizado en forma ilegal o no.
-Falso,Stolbizer: “Las rutas [provinciales] son las mismas que hace 50 o más años”
-Falso,"EXAGERADOSegún la candidata a diputada nacional, es el resultado de la falta de recursos provinciales. Es cierto que en los últimos años se paralizó la inversión en rutas. Sin embargo, se hicieron obras de mantenimiento y de expansión que mejoraron el estado de la infraestructura."
-Falso,De Gennaro: “Tigre tiene el 60% del territorio continental transformado en barrios cerrados”
-Falso,"EXAGERADOEl municipio posee un gran porcentaje de barrios privados, pero éste es menor al mencionado por el diputado nacional."
-Falso,"Filmus, sobre los jóvenes Ni-Ni: “Son muchos menos ahora de los que había en 2003”"
-Falso,"VERDADERO, PERO...La cantidad de adolescentes que no estudia ni trabaja disminuyó entre ese año y 2012. Sin embargo, el punto inicial de comparación es el peor de los últimos nueve años. A partir de 2008, la caída se estabilizó."
-Verdadero,“La Copa del Mundo costará unos US$30 mil millones”
-Verdadero,"ENGAÑOSOAsí lo afirmó Carla Dauden, la autora del video “No, yo no voy a la Copa del Mundo”. Para llegar a ese número, sin embargo, hay que sumar el dinero destinado para el Mundial y para los Juegos Olímpicos de Río de Janeiro 2016."
-Falso,Sturzenegger: “La pasada es la única década en la que se fueron los chicos de los colegios públicos”
-Falso,"VERDADERO, PERO... El dato es cierto en el caso de las escuelas primarias, donde bajó el número de alumnos en establecimientos públicos. Si se considera el número de alumnos en todos los niveles, la matrícula estatal creció pero por debajo de la privada."
-Verdadero,"Insaurralde: “Casi el 10% del presupuesto [está destinado a] seguridad, eso no lo gasta la Provincia de Buenos Aires”"
-Verdadero,"ENGAÑOSOLa cifra municipal es cercana a la indicada por el intendente, pero es superada por lo que la Provincia invierte. Además, el porcentaje del presupuesto no es un indicador de efectividad."
-Falso,Giustozzi: “Después de 50 años se está expandiendo la red cloacal en Almirante Brown”
-Falso,"ENGAÑOSOEs cierto que el Municipio se encontraba retrasado y que se hicieron obras. Pero la población conectada al servicio disminuyó entre 2001 y 2010, y no alcanza al 15% del total. Almirante Brown se encuentra, además, entre los municipios del GBA con menor porcentaje de hogares que accede a este servicio."
-Falso,"Adolfo Rodríguez Saá: “No nos hemos desendeudado, estamos más endeudados que antes”"
-Falso,"FALSOEl senador comparó la deuda en números absolutos de 2003 con la de 2012, y lo hizo sin contar la inflación de los Estados Unidos. Sin embargo, tomando el aumento de precios en ese país, la deuda disminuyó, así como lo hicieron todos los indicadores utilizados para medir el peso de la deuda en la economía nacional."
+Verdadero,Hay diferentes tipos de contratos entre la parte estatal y la privada refiriendo a empresas de petróleo.
+Verdadero,La cantidad de frigoríficos en la Argentina disminuyó entre 2003 y 2012.
+Verdadero,"La cantidad de adolescentes que no estudia ni trabaja disminuyó entre e; año 2003 y 2012.  A partir de 2008, la caída se estabilizó."
+Falso,“La Copa del Mundo costará unos US$30 mil millones”
+Verdadero,Sturzenegger: “De 2003  2013 se fueron chicos de los colegios públicos”
+Verdadero,"Si se considera el número de alumnos en todos los niveles, la matrícula estatal creció pero por debajo de la privada."
+Verdadero,"la población conectada al servicio en Almirante Brown disminuyó entre 2001 y 2010, y no alcanza al 15% del total. Almirante Brown se encuentra, además, entre los municipios del GBA con menor porcentaje de hogares que accede a este servicio."
 Falso,Binner: “En un país normal los trabajadores no pagan impuesto a las ganancias”
-Falso,"FALSOEste gravamen, bajo distintos nombres, existe en la mayoría de los países y se trata de uno de los elementos más equitativos del sistema tributario."
+Verdadero,"El impuesto a las ganancias, bajo distintos nombres, existe en la mayoría de los países y se trata de uno de los elementos más equitativos del sistema tributario."
 Falso,"Según Alak, el Consejo de la Magistratura argentino es asimilable al español"
-Falso,"ENGAÑOSOEl Consejo español está integrado exclusivamente por jueces y abogados designados en un proceso en el que no hay elección popular directa pero sí interviene el Congreso. El sistema argentino, en cambio, incluye también a representantes de órganos políticos y académicos."
-Falso,Oscar Parrilli: “Fue la actual Presidenta la que promovió la derogación del delito de calumnias e injurias”
-Falso,"FALSOEsta gestión sólo eliminó la posibilidad de aplicar penas por este tipo de delitos en casos de ""interés público"", pero no derogó las figuras de calumnias e injurias. Según algunas organizaciones y expertos, ésto puede condicionar la libertad de expresión."
-Falso,"Sobrero: “El sistema de señalización es del año 1921, y los trenes son del año 1960”"
-Falso,"VERDADEROEl dato que mencionó el sindicalista coincide con la información disponible. Los especialistas consultados subrayan que lo importante es el mantenimiento del servicio, que no se cumplió."
+Verdadero,"El Consejo español está integrado exclusivamente por jueces y abogados designados en un proceso en el que no hay elección popular directa pero sí interviene el Congreso. El sistema argentino, en cambio, incluye también a representantes de órganos políticos y académicos."
+Verdadero,"Sobrero: “El sistema de señalización de trenes es del año 1921, y los trenes son del año 1960”"
 Verdadero,Ricardo Casal: “En un año el delito con armas creció el 22% en la Provincia de Buenos Aires”
-Verdadero,"VERDADERO, PERO...El dato mencionado por el Ministro es correcto. Sin embargo, existen cuestionamientos por parte de organizaciones de derechos humanos sobre el proyecto de ley que se plantea como solución."
-Verdadero,Lombardi: “Los ingresos por los gastos de turistas extranjeros han caído dramáticamente”
-Verdadero,"EXAGERADOEs cierto que disminuyó el gasto de los turistas extranjeros, aunque la reducción fue menos brusca que la señalada por el ministro de Cultura de la Ciudad de Buenos Aires."
-Falso,Abal Medina: “La pauta que maneja el Estado nacional no representa ni el 3% del total”
-Falso,"FALSOLa pauta del Gobierno nacional para 2012 significará más que ese porcentaje. Además, el jefe de Gabinete no incluyó en su cálculo el programa Fútbol para Todos que, al menos parcialmente, puede ser imputable como publicidad oficial.ADEMÁS...>Incidencia y distribución equitativa"
-Falso,Puricelli: “Se ha avanzado muchísimo [durante mi gestión]”
-Falso,"ENGAÑOSOLo destacó el ex ministro de la cartera al dejar su cargo. Sin embargo, los logros de gestión que mencionó responden a medidas iniciadas por su antecesora, Nilda Garré."
-Falso,Massa: “El último Censo Nacional muestra una clara reversión en la población sin agua potable y sin cloacas”
-Falso,Es cierto que los indicadores que mencionó el Intendente mejoraron. Pero Tigre todavía figura en las posiciones más bajas si se lo compara con los 24 Partidos del Gran Buenos Aires.
-Verdadero,Randazzo: “En cuatro años bajamos un 20% el número de víctimas fatales [en siniestros viales]”
-Verdadero,VERDADEROHubo una importante reducción en la cantidad de muertes ocasionadas por los siniestros viales.
-Verdadero,"Scioli: “Las transferencias a municipios crecieron 260%, y son el 20% de los ingresos coparticipables”"
-Verdadero,"VERDADERO, PERO…El dinero enviado a los municipios aumentó en términos tanto nominales como reales, aunque el porcentaje exacto depende de cómo se calcule."
+Verdadero,Massa: “El  Censo Nacional de 2010 muestra una clara reversión en la población sin agua potable y sin cloacas”
+Verdadero,Randazzo: “De 2008 a 2012 bajamos un 20% el número de víctimas fatales [en siniestros viales]”
 Verdadero,CFK: “Argentina tuvo [en 2012] la Inversión Extranjera Directa más importante de toda la década”
-Verdadero,"Verdadero, pero…El dato es exacto. Se debe en gran parte a las medidas que restingen las salidas de capitales y no a la entrada de nuevos fondos del exterior."
-Verdadero,"Alfonsín: “Desde 2003, se perdió la soberanía o el autoabastecimiento energético”"
-Verdadero,ENGAÑOSOLa balanza comercial de energía pasó a ser deficitaria durante la última década. Pero la falta de inversión en exploración y la caída en la producción no son sólo imputables a las gestiones de gobierno de los últimos años.
-Falso,Moyano: “Estos son los años en que menos se ha distribuido la riqueza”
-Falso,FALSOLo afirmó el líder de la CGT al cumplirse diez años del inicio del gobierno de Néstor Kirchner. La reducción de la desigualdad en el periodo iniciado en 2003 es la más importante desde 1974 hasta la actualidad.
-Falso,De Narváez: “[La inseguridad] ha producido en sus años de gobierno [de los Kirchner] 20 mil muertos”
-Falso,DISCUTIBLEEl número corresponde a la cantidad de homicidios dolosos que hubo en el país desde el 2003. Pero no existe una definición clara que permita saber qué porcentaje de éstos son resultado de lo que se suele llamar inseguridad.
-Falso,Giorgi: “[En la industria] generamos más de un millón de puestos de trabajo”
-Falso,"FALSOEl número de empleos creado en ese rubro es muy inferior al citado por la Ministra de Industria, según informa su propia cartera."
-Falso,"Etchevehere: “Perdimos casi 12 millones de cabezas, que es el stock completo del Uruguay”"
-Falso,"jVERDADERO, PERO… Es cierto que se produjo una caída en el stock vacuno aunque no tan drástica como afirmó el presidente de la Sociedad Rural Argentina. Se observa una recuperación en los últimos años."
+Verdadero,"El dato de: ""Argentina tuvo [en 2012] la Inversión Extranjera Directa más importante de toda la década” Se debe en gran parte a las medidas que restingen las salidas de capitales y no a la entrada de nuevos fondos del exterior."
+Falso,"Alfonsín: “Desde 2003, se perdió la soberanía o el autoabastecimiento energético”"
 Verdadero,CFK: “La Argentina tiene la cobertura más alta [en jubilaciones de la región]”
-Verdadero,"VERDADERO El país está en la mejor situación en cuanto al porcentaje de la población mayor que recibe jubilaciones, y aumentó considerablemente desde 2003."
-Verdadero,"CFK: “En estos diez años, el egreso de las universidades creció un 68% en la Argentina”"
-Verdadero,"VERDADERO, PERO...La Presidenta mencionó un dato cercano a las cifras oficiales. Pero el aumento de graduados responde a un crecimiento estudiantil y no es necesariamente un indicador de mayor eficiencia del sistema, que se puede medir con la proporción de graduados sobre ingresantes."
+Verdadero,"Argentina ahora en 2013 está en la mejor situación en cuanto al porcentaje de la población mayor que recibe jubilaciones, y aumentó considerablemente desde 2003."
+Verdadero,"CFK: “En estos diez años(2003-2013), el egreso de las universidades creció un 68% en la Argentina”"
+Verdadero,"El aumento de graduados responde a un crecimiento estudiantil y no es necesariamente un indicador de mayor eficiencia del sistema, que se puede medir con la proporción de graduados sobre ingresantes."
 Verdadero,"Axel Kicillof: “En 2012 tuvimos un superávit comercial histórico, superior a los 10 mil millones de dólares”"
-Verdadero,"VERDADERO, PERO… El saldo se ubica entre los más altos, todos en la década 2002-2012, aunque fue superado en otras oportunidades. Sin embargo, el resultado de la balanza comercial mejora cuando hay caídas en la actividad económica."
-Verdadero,"Mayoral: “De 79 mil empleos (mineros) en 2003, pasamos a casi medio millón en la actualidad”"
-Verdadero,"FALSOEl secretario de Minería se refirió a empleos directos e indirectos. Sin embargo, datos oficiales y estudios privados desmienten sus dichos."
-Falso,"De Narváez: “En la Plata todos los días hay una, dos o tres personas muertas por la inseguridad”"
-Falso,FALSOEl diputado nacional habló de los problemas de seguridad. Utilizó cifras que no se corresponden con los datos disponibles.
-Falso,Di Tullio: “La Argentina es el octavo país en el mundo que aporta capitales a paraísos fiscales”
-Falso,VERDADEROLa diputada se refirió a la magnitud de la fuga de capitales ilícitos en el marco de un pedido a la Procuraduría de Criminalidad Económica para que investigue a 400 empresas del país. La afirmación coincide con los datos disponibles.
-Verdadero,Prat Gay: “El sector privado está perdiendo empleos hace más de un año”
-Verdadero,"VERDADERO Los datos oficiales muestran que entre fines de 2011 y fines de 2012 el empleo privado cayó. En el último trimestre se registró una estabilización del indicador para el trabajo formal, que no revirtió la situación."
-Verdadero,Félix Díaz: “Formosa está primera en todos [los indicadores sociales negativos]”
-Verdadero,VERDADEROEl líder Qom enumeró varios indicadores sobre la situación social en la provincia norteña. Las cifras que respaldan sus dichos.
+Verdadero,"El saldo de 10 mil millones de dolares se ubica entre los más altos, todos en la década 2002-2012, aunque fue superado en otras oportunidades. "
+Falso,"Mayoral: “De 79 mil empleos (mineros) en 2003, pasamos a casi medio millón en la actualidad”"
+Verdadero," Los datos oficiales muestran que entre fines de 2011 y fines de 2012 el empleo privado cayó. En el último trimestre se registró una estabilización del indicador para el trabajo formal, que no revirtió la situación."
 Verdadero,Lavagna: “[En 2012] se usaron más de $100 mil millones en subsidios y la AUH fue 9 veces menos que esa suma”
-Verdadero,"VERDADERO, PERO...La afirmación del ex ministro de Economía es verdadera, aunque en 2013 se prevé una reducción en los subsidios económicos. "
-Verdadero,¿8 de cada 10 libros editados en la Argentina se imprimen en el país?
-Verdadero,"VERDADERO Según los datos oficiales y del sector esto es así. En el resultado tuvieron relevancia los controles a las importaciones y los acuerdos para equilibrar la balanza comercial del sector, que aún así es deficitaria.ADEMÁS...>Los universitarios en números"
-Verdadero,Montenegro: “El protocolo estaba perfectamente cumplido”
-Verdadero,"INSOSTENIBLEEl Ministro de Seguridad defendió así el desempeño de la Policía Metropolitana. La fuerza porteña no dispone, en realidad, de un protocolo de actuación en caso de manifestaciones y protestas sociales."
-Falso,Tomada: “La cantidad de trabajadores registrados es la más alta de los últimos 38 años”
-Falso,"ENGAÑOSO Las cifras oficiales coinciden con esa afirmación. Sin embargo, ello se debe a que hay una mayor población activa, y no una tasa menor de trabajo informal."
-Falso,Macri: “Nos llevó un año conseguir todas las aprobaciones para llevar a cabo este edificio”
-Falso,FALSOEl Jefe de Gobierno dijo que se había aprobado la realización de obras en el predio aledaño al Hospital Borda. La Justicia porteña lo contradice.
-Falso,Danilo Astori: “[Uruguay] no es un paraíso fiscal”
-Falso,DISCUTIBLEEl vicepresidente de ese país respondió así a la investigación periodística del programa “Periodismo para Todos”. La afirmación puede ser o no verdadera según las fuentes que se consulten.
-Falso,Piumato: “En el Ministerio de Trabajo el 75% de los empleados están precarizados”
-Falso,"VERDADEROEl gremialista utilizó este argumento para criticar el proyecto sobre concursos en el Poder Judicial. Las cifras oficiales se asemejan a sus dichos. Este porcentaje, además, supera lo permitido por la normativa vigente para tareas temporales. "
-Verdadero,"CFK: “Para los invisibles y los pobres no hay ni cautelares, ni inconstitucionalidades, ni nada”"
-Verdadero,"FALSOExisten varios antecedentes de personas en situación de vulnerabilidad que demuestran lo contrario a lo argumentado por la Presidenta. Los especialistas consultados destacan, por otra parte, que el problema no es la denegación de este recurso, si no la falta de acceso a la Justicia para esas personas y grupos."
-Falso,De Vido: “[La importación de energía] no representa más del 8% de la demanda de nuestro país”
-Falso,"ENGAÑOSOEs cierto que la energía que proviene de otros países representa un porcentaje acotado del consumo nacional, pero viene en aumento. Además, la balanza comercial energética presenta desde hace dos años un resultado negativo."
-Falso,"Recalde: “El Consejo [de la Magistratura] no funciona, está frenado”"
-Falso,"VERDADERO, PERO...Es cierto que el órgano encargado de la selección y acusación de jueces sufre serias demoras. Pero los especialistas consultados advierten que la nueva integración propuesta y la disminución de la mayoría necesaria para la toma de decisiones beneficiarán al partido de gobierno."
-Verdadero,"Urtubey: “La tasa de mortalidad infantil, de un 15 por mil cayó a 12,5 por mil”"
-Verdadero,"APRESURADOEl gobernador se refirió a una mejora en ese indicador. Aunque las estadísticas oficiales a nivel nacional aún no están disponibles, los resultados provinciales son los que él menciona."
 Falso,Alak: “Todas las provincias argentinas tienen reguladas las medidas cautelares contra el Estado”
-Falso,ENGAÑOSOEl Ministro aseguró que una nueva ley pondría las normas federales en línea con las leyes provinciales. Pero las regulaciones provinciales existentes no son similares a lo propuesto en el proyecto enviado al Congreso.
-Falso,Sanz: “Ya no habrá más necesidad de buscar consenso para elegir un juez o para destituirlo”
-Falso,"VERDADERO, PERO...Los dichos del senador coinciden con el análisis de los especialistas en relación al origen partidario de los consejeros y a los nuevos requisitos de mayoría para tomar decisiones. Pero sólo en tanto el oficialismo mantenga la mayoría en ambas Cámaras y gane las elecciones."
-Verdadero,Scioli: “Se ha hecho una gran cantidad de obras en La Plata”
-Verdadero,"FALSOEl Gobernador bonaerense quiso defender así su gestión en el área hidráulica. Sin embargo, de acuerdo con los datos disponibles, las obras estructurales aún no fueron iniciadas."
-Falso,Marcó del Pont: “Lo que más viene creciendo en términos de exportación son las manufacturas de origen industrial”
-Falso,"VERDADERO, PERO...Es cierto que ese rubro es el que tiene el mayor aumento desde el 2003. Sin embargo, entre otras cosas, incluye exportaciones que presentan poco grado de transformación industrial, como el oro y otros metales básicos."
+Falso,Scioli: “Se ha hecho una gran cantidad de obras en La Plata”
+Verdadero,"De acuerdo con los datos disponibles, las obras estructurales en el área hidráulica aún no fueron iniciadas."
+Verdadero,Marcó del Pont: “Lo que más viene creciendo en términos de exportación son las manufacturas de origen industrial”
+Verdadero,"El  rubro de manufacturas de origen industrial es el que tiene el mayor aumento desde el 2003. Sin embargo, entre otras cosas, incluye exportaciones que presentan poco grado de transformación industrial, como el oro y otros metales básicos."
 Verdadero,Peralta: “La destrucción de empleo en la obra pública no pasa sólo en Santa Cruz sino en todo el país”
-Verdadero,VERDADEROEl Gobernador de Santa Cruz se refirió así a la disminución en la obra pública. Distintos indicadores lo confirman.
-Verdadero,Santilli: “No hubo ninguna subejecución [en mantenimiento e infraestructura pluvial]”
-Verdadero,"Es cierto que la partida de mantenimiento registró un nivel de ejecución alto en 2012. Sin embargo, el rubro “Construcciones” de la Dirección de Infraestructura Pluvial sólo se ejecutó en un 12 por ciento."
-Falso,Feletti: “La inversión en Educación ha tenido un correlato en la baja de deserción en el secundario”
-Falso,"VERDADERO, PERO...La tasa de abandono interanual disminuyó desde 2005. Pero aún persisten problemas como la sobreedad y una tasa de egreso de alrededor del 50 por ciento."
-Verdadero,Giorgi: “La participación nacional de celulares pasó al 97%”
-Verdadero,"ENGAÑOSO Los datos coinciden, pero dados los requisitos para ser considerado un producto nacional, los aparatos pueden no incluir componentes producidos localmente."
-Falso,"Sileoni: “Del 2003 al 2012, 665% aumentó el salario docente, [mientras que] la inflación aumentó 365 por ciento”"
-Falso,"VERDADEROEl Ministro cuestionó el paro docente y defendió el aumento de los salarios de los trabajadores del sector. Los datos confirman sus afirmaciones: el salario docente creció, tanto en términos nominales como reales."
+Verdadero,Distintos indicadores confirman que hubo disminución de obra pública en todo el país argentino
+Falso,Santilli: “No hubo ninguna subejecución [en mantenimiento e infraestructura pluvial]”
+Falso,La partida de mantenimiento registró un nivel de ejecución alto en 2012 en infraestructura pluvial en Argenitna
+Verdadero,"En 2012 se registra una baja del 3,2% en el Indicador Sintético de la Actividad de la Construcción (ISAC)"
+Verdadero,"Sileoni: “Del 2003 al 2012, 665% aumentó el salario docente, [mientras que] la inflación aumentó 365 por ciento”"
 Verdadero,"CFK: “En la Argentina hay una diferencia abismal entre la inversión estatal en investigación y desarrollo, y la que hacen los privados”"
-Verdadero,VERDADEROLa Presidenta lo mencionó al anunciar el Plan Argentina Innovadora 2020. Las estadísticas sobre I+D confirman tanto ello como la mayor participación de las empresas privadas en otros países del mundo.
-Verdadero,Berni: “Junín tiene índices de criminalidad comparables a los de Rosario”
-Verdadero,FALSOEl Secretario de Seguridad aludió así al aumento del número de asesinatos en el municipio bonaerense. Los casos relevados y las estadísticas del Ministerio de Seguridad de Santa Fe desmienten sus dichos.
+Verdadero,Las estadísticas sobre I+D confirman tanto ello como la mayor participación de las empresas privadas en otros países del mundo.
 Falso,Insfrán: “Nuestro presupuesto educativo registra el mayor crecimiento en el contexto nacional”
-Falso,"FALSOEl Gobernador de Formosa destacó este dato en el discurso de apertura de la Legislatura provincial. Su afirmación respecto de la inversión destinada a educación es falsa, de acuerdo con los últimos datos disponibles."
-Falso,Alperovich: “En nueve años de gobierno creamos 380 mil empleos en la Provincia”
-Falso,"FALSOLa cantidad de trabajadores en Tucumán no creció en los números absolutos mencionados por el Gobernador. Si se toma esa cifra, el aumento entre 2003 y 2012 sería equivalente al total de ocupados que existen hoy según los números oficiales."
+Verdadero,"El Gobernador de Formosa destacó este dato en el discurso de apertura de la Legislatura provincial. Su afirmación respecto de la inversión destinada a educación es falsa, de acuerdo con los últimos datos disponibles."
+Falso,Alperovich: “En nueve años [2003 - 2012]  de gobierno creamos 380 mil empleos en la Provincia”
+Verdadero,El aumento de empleos totales creados en Argentina entre 2003 y 2012 es de 380 mil 
 Falso,"Macri: “Creamos, de cero, una fuerza modelo, formada por casi 800 mil hombres”"
-Falso,"FALSOEl Jefe de Gobierno se refirió a la fuerza policial de la Ciudad, pero el número de efectivos está muy lejos de la realidad. Además, no está claro que se trate de un caso a imitar ya que un buen diseño institucional no garantiza una policía ejemplar."
-Falso,Randazzo: “Con el primer aumento [del subte] hubo un desplazamiento del 23% a las líneas de colectivos”
-Falso,VERDADEROLa cantidad de viajes en el servicio de subterráneos bajó en la proporción mencionada por el Ministro.
-Verdadero,Macri: “Cada día más personas recurren a nuestro sistema de salud. En especial de la Provincia”
-Verdadero,"ENGAÑOSOEl Jefe de Gobierno quiso destacar así un aumento continuo de bonaerenses que recurren a los hospitales porteños. Si bien cerca de la mitad de las personas que se atienden provienen del Conurbano, los indicadores sobre el tema no aumentaron sino que mostraron oscilaciones y cifras menores que las de la década del 90."
+Verdadero,Randazzo: “Con el primer aumento [del subte] hubo un desplazamiento del 23% a las líneas de colectivos”
+verdadero,La cantidad de viajes en el servicio de subterráneos bajó un 23% respeccto a las líneas de colectivos
+verdadero,"Desde que el Gobierno de la Ciudad de Buenos Aires aumentó la tarifa de $1,10 a $2,50, en enero de 2012, la cantidad de viajes que se hacen en este medio de transporte bajó un 23,5%"
+Falso,Macri: “Cada día más personas recurren a nuestro sistema de salud. En especial de la Provincia”
 Falso,Scioli: “Somos la única provincia que pierde año a año participación en la renta federal”
-Falso,VERDADEROLos datos oficiales muestran que el porcentaje de los recursos destinados a Buenos Aires vienen cayendo significativamente respecto al total de los recursos coparticipados.
-Verdadero,"Scioli: “Ampliamos, junto a Nación, la cobertura de agua potable y cloacas del 43% a más del 70%”"
-Verdadero,"INSOSTENIBLE Los datos disponibles muestran un aumento en el acceso, pero no permiten comprobar los dichos del gobernador."
+Verdadero,Los datos oficiales muestran que el porcentaje de los recursos destinados a Buenos Aires vienen cayendo significativamente respecto al total de los recursos coparticipados.
 Falso,"CFK: “[Los jueces, abogados y académicos del Consejo de la Magistratura] tienen que ser votados por sus conciudadanos; está en absoluta regla con lo que establece la Constitución”"
-Falso,"DISCUTIBLEAunque puede decirse que este procedimiento está en línea con una interpretación literal de la Carta Magna, no lo está con el espíritu de la ley."
-Falso,CFK: “[Incluimos en el sistema previsional] a más de 2 millones de trabajadores”
-Falso,"EXAGERADO La cifra se corresponde con los beneficios, pero no con la cantidad de beneficiarios del Sistema Previsional, que aumentó pero en menor medida."
+Verdadero,"Aunque puede decirse que este procedimiento está en línea con una interpretación literal de la Carta Magna, no lo está con el espíritu de la ley."
+Falso,CFK: “[Incluimos en el sistema previsional] de 2003 a 2013 a más de 2 millones de trabajadores”
 Falso,CFK: “Somos en América Latina los que más científicos tenemos por cada 1.000 habitantes”
-Falso,"ENGAÑOSOLa Presidenta se refirió al tema en su discurso de inaugural del Congreso. Los datos disponibles ubican a la Argentina en ese lugar, pero es un indicador cuestionable."
 Falso,CFK: “En la Justicia es imposible acceder a la declaración jurada de nadie”
-Falso,"ENGAÑOSOAl anunciar el envío de un proyecto de ley para mejorar el acceso a las declaraciones juradas en todos los poderes del Estado, Cristina Fernández aludió así a las dificultades que presenta acceder a las declaraciones de jueces. En el Poder Ejecutivo Nacional es sencillo acceder, no así en el Legislativo."
-Falso,"CFK: “Hemos pasado de un 3,64% del PBI en educación a un 6,5% en 2012”"
-Falso,"VERDADEROLos datos confirman los dichos de la Presidenta, que destacó así la inversión educativa como porcentaje del PBI."
-Verdadero,CFK: “Del año 2003 al 2012 (…) más que se duplicó el PBI industrial. [Creció un] 105%”
-Verdadero,EXAGERADO La Presidenta destacó durante en el inicio de las sesiones ordinarias el crecimiento del sector en la economía nacional. Las cifras disponibles muestran un crecimiento menor.
-Falso,Lavagna: “Hay alrededor de 900 mil jóvenes que no estudian ni trabajan”
-Falso,"VERDADEROEl número exacto depende de las edades que se incluyan, pero la cifra ronda el número citado por el ex ministro."
-Verdadero,"“Chino” Navarro: “Buenos Aires recauda $ 62 mil millones de recursos genuinos; de los cuales, 5.300 corresponden a inmobiliario y 4 mil a automotor”"
-Verdadero,"VERDADERO, PERO…El diputado del Movimiento Evita criticó que los impuestos progresivos sean los que menos recaudan en la Provincia. El dato es cierto, aunque ambos son los tributos que más aumentarán su participación recaudatoria entre 2011 y 2013."
+Verdadero,"CFK: “Hemos pasado de un 3,64% del PBI en educación a un 6,5% en 2012”"
+Verdadero,"Los datos confirman los dichos de la Presidenta, que destacó así la inversión educativa como porcentaje del PBI."
+Falso,CFK: “Del año 2003 al 2012 (…) más que se duplicó el PBI industrial. [Creció un] 105%”
+Falso,La Presidenta destacó durante en el inicio de las sesiones ordinarias el crecimiento del sector en la economía nacional. Las cifras disponibles muestran un crecimiento menor.
+Verdadero,Lavagna: “En 2012 hay alrededor de 900 mil jóvenes que no estudian ni trabajan”
+Verdadero,"Un informe de la Universidad Católica Argentina (UCA), publicado en 2012 con datos de 2010, informa que “en Argentina hay 746 mil jóvenes entre 18 y 24 años que no estudian ni trabajan"
+Verdadero,"El número exacto depende de las edades que se incluyan, pero la cifra ronda el número citado por el ex ministro."
+Verdadero,"“Chino” Navarro: “En 2013 Buenos Aires recauda $ 62 mil millones de recursos genuinos; de los cuales, 5.300 corresponden a inmobiliario y 4 mil a automotor”"
+Verdadero,"En 2013, la recaudación estimada de la Provincia de Buenos Aires por tributos de origen provincial será de 62 mil millones de pesos, de acuerdo con las estimaciones del mensaje del proyecto de ley de Presupuesto 2013 que elabora el Ministerio de Economía de la Provincia de Buenos Aires."
 Verdadero,CFK: “[En 2011] la Argentina tuvo el récord histórico de inversión de toda la serie”
-Verdadero,"VERDADERO, PERO...El valor mencionado es consistente con las mediciones de la Dirección de Cuentas Nacionales sobre el periodo 1993-2011. Sin embargo, la cifra cayó durante 2012. "
+Verdadero,"El valor mencionado es consistente con las mediciones de la Dirección de Cuentas Nacionales sobre el periodo 1993-2011. Sin embargo, la cifra cayó durante 2012. "
 Verdadero,Zaffaroni: “Tomar declaraciones indagatorias fuera del país no afecta nuestra soberanía y es algo que se ha hecho varias veces”
-Verdadero,"VERDADERO, PERO…Es cierto que varios magistrados han tomado declaraciones fuera del país, pero en la mayoría de los casos fueron testimoniales."
-Verdadero,"EXAGERADOEl titular de la Sociedad Rural utilizó este argumento para referirse a la situación actual del sector agropecuario. Sin embargo, la producción de 2011 superó, aunque levemente, la de fines de la década del 90."
-Falso,Randazzo: “Los siniestros viales son la principal causa de muerte no natural de los menores de 25 años”
-Falso,VERDADEROLos dichos del Ministro del Interior y Transporte coinciden con las cifras disponibles en el área de salud.
-Verdadero,Macri: “Crecimos a tasas elevadísimas pero los niveles de pobreza son los mismos que teníamos hace diez años”
-Verdadero,FALSOEl Jefe de Gobierno porteño aseguró que a pesar del crecimiento económico la situación social no cambió. Pero una revisión de los datos muestra que no es así.
-Falso,"Batakis: “Cuando Scioli asumió, de cada $ 100 que ingresaban al Tesoro, $ 51 eran de origen provincial. Hoy por hoy (…) estamos en 63 por ciento”"
-Falso,VERDADEROLa ministra de Economía provincial defendió así la política tributaria bonaerense. Los datos disponibles confirman sus dichos.
+Verdadero,Varios magistrados han tomado declaraciones fuera del país.
+Verdadero,Randazzo: “Los siniestros viales son la principal causa de muerte no natural de los menores de 25 años”
+Verdadero,Los dichos del Ministro del Interior y Transporte coinciden con las cifras disponibles en el área de salud.
+Falso,Macri: “Crecimos a tasas elevadísimas pero los niveles de pobreza son los mismos que teníamos hace diez años”
+Verdadero,"Batakis: “Cuando Scioli asumió, de cada $ 100 que ingresaban al Tesoro, $ 51 eran de origen provincial. Hoy por hoy (…) estamos en 63 por ciento”"
 Verdadero,Bonfatti: “Santa Fe hace años que no recibe una vivienda del Plan Federal”
-Verdadero,"EXAGERADO Así lo mencionó el gobernador. Los datos oficiales muestran que hubo transferencias, pero que disminuyeron considerablemente."
-Falso,"Solanas: “[El fracking] está prohibido en varios estados de los Estados Unidos, en Francia, en varios países de Europa”"
-Falso,. VERDADEROEl método de fracturación hidráulica utilizado para la exploración de gas y petroleo no convencional está en discusión en buena parte del mundo y fue prohibido en algunos casos.
-Verdadero,"De Mendiguren: “Desde la crisis hasta hoy el salario básico del sector industrial subió 10 veces, [mientras que] la inflación (…) subió seis veces”"
-Verdadero,"VERDADERO, PERO...El presidente de la UIA se refirió a los acuerdos paritarios y destacó que el crecimiento del salario industrial estuvo por encima del aumento de precios. Los datos disponibles le dan la razón, pero si se considera el salario promedio su punto inicial de comparación es el más bajo al menos desde 1970."
-Verdadero,Sobrero: “Solamente el 4% de la carga que se maneja en el país se transporta por tren”
-Verdadero,VERDADERO Así lo sostuvo el gremialista. Los cálculos de los expertos coinciden con el número.
-Verdadero,Binner: “La inflación ya se comió el 60% de la Asignación Universal por Hijo”
-Verdadero,"DISCUTIBLESi se considera la inflación informada por la Provincia de Santa Fe, no es así. Pero si se calcula con los índices de precio barriales, se llega a un resultado próximo al mencionado."
+Verdadero,"El Fondo Nacional de Viviendas (FONAVI), que tiene fijados por ley los coeficientes de dinero que corresponden a cada provincia, y los Planes Federales de Viviendas (PFV) que, en cambio, son manejados en forma discrecional por el Ejecutivo.  
+"
+Verdadero,"Solanas: “[El fracking] está prohibido en varios estados de los Estados Unidos, en Francia, en varios países de Europa”"
+Verdadero,El método de fracturación hidráulica utilizado para la exploración de gas y petroleo no convencional está en discusión en buena parte del mundo y fue prohibido en algunos casos.
+Verdadero,Sobrero: “Solamente el 4% en 2013de la carga que se maneja en el país se transporta por tren”
+Verdadero,"De acuerdo al informe de 2008 sobre transporte del Centro para la Implementación de Políticas Públicas para la Equidad y el Crecimiento (CIPPEC), el porcentaje es similar: “el ferrocarril sólo transporta el 5% de las cargas, y el cabotaje fluvial y marítimo es marginal”, por lo que hay una concentración en los camiones"
+Falso,Binner: “La inflación ya se comió el 60% de la Asignación Universal por Hijo”
