@@ -17,9 +17,9 @@ Se transformaron los datos en diferentes formatos, realizando agregaciones, norm
 Por ultimo se realizo una integración de los datos de diferentes fuentes, combinando los distintos conjuntos de datos mediante técnicas de integración.
 
 ## Estructura de Carpetas
-1. [Veracity Classification](veracity_classification/):
+1. [Veracity Classification](veracity-classification/):
 Esta carpeta contiene gran variedad de noticias falsas recopiladas de diversas fuentes juntos con los scripts correspondietes para su correcto procesamiento y analisis. 
 
-2. [Sentiment Analysis](sentiment_analysis/):
+2. [Sentiment Analysis](sentiment-analysis/):
 En este directorio se encuentran los datos relacionados con el análisis de sentimiento, provenientes de tweets y datasets preexistentes, junto con los scripts correspondietes para su correcto procesamiento y analisis. 
 
