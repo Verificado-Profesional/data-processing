@@ -1,2 +1,3 @@
 /embeddings
 /osintgpt
+*.env
